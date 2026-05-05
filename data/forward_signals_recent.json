@@ -1,7 +1,7 @@
 {
-  "exported_at": 1777968875,
-  "exported_iso": "2026-05-05 08:14:35 UTC",
-  "cron_run_id": "local_smoke_v674",
+  "exported_at": 1777970430,
+  "exported_iso": "2026-05-05 08:40:30 UTC",
+  "cron_run_id": "cron_1777970430",
   "window_hours": 24,
   "count": 0,
   "signals": []
