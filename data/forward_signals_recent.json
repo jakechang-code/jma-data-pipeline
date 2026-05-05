@@ -1,10 +1,50 @@
 {
-  "exported_at": 1778010769,
-  "exported_iso": "2026-05-05 19:52:49 UTC",
-  "cron_run_id": "cron_1778010769",
+  "exported_at": 1778014205,
+  "exported_iso": "2026-05-05 20:50:05 UTC",
+  "cron_run_id": "cron_1778014205",
   "window_hours": 24,
-  "count": 4,
+  "count": 8,
   "signals": [
+    {
+      "fired_at": 1778014205,
+      "insider_address": "0x46560b7207bb490a2115c334e36a70d6ad4bdebd",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "A",
+      "fill_notional_usd": 65614.35481,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mag7_nvda_20260508"
+    },
+    {
+      "fired_at": 1778014205,
+      "insider_address": "0x46560b7207bb490a2115c334e36a70d6ad4bdebd",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "A",
+      "fill_notional_usd": 56028.43816,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mag7_nvda_20260508"
+    },
+    {
+      "fired_at": 1778014205,
+      "insider_address": "0x46560b7207bb490a2115c334e36a70d6ad4bdebd",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "A",
+      "fill_notional_usd": 40672.199609999996,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mag7_nvda_20260508"
+    },
+    {
+      "fired_at": 1778014205,
+      "insider_address": "0x46560b7207bb490a2115c334e36a70d6ad4bdebd",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "A",
+      "fill_notional_usd": 37581.36382,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mag7_nvda_20260508"
+    },
     {
       "fired_at": 1777986086,
       "insider_address": "0x5c40c1213840c223f5e3650d354711e557a684a9",
