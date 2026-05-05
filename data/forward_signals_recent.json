@@ -1,8 +1,49 @@
 {
-  "exported_at": 1777981697,
-  "exported_iso": "2026-05-05 11:48:17 UTC",
-  "cron_run_id": "cron_1777981697",
+  "exported_at": 1777986086,
+  "exported_iso": "2026-05-05 13:01:26 UTC",
+  "cron_run_id": "cron_1777986086",
   "window_hours": 24,
-  "count": 0,
-  "signals": []
+  "count": 4,
+  "signals": [
+    {
+      "fired_at": 1777986086,
+      "insider_address": "0x5c40c1213840c223f5e3650d354711e557a684a9",
+      "insider_k_score": 100,
+      "fill_coin": "ETH",
+      "fill_side": "B",
+      "fill_notional_usd": 63540.3816,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mstr_earnings_20260507"
+    },
+    {
+      "fired_at": 1777986086,
+      "insider_address": "0x5c40c1213840c223f5e3650d354711e557a684a9",
+      "insider_k_score": 100,
+      "fill_coin": "ETH",
+      "fill_side": "B",
+      "fill_notional_usd": 45889.002,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mstr_earnings_20260507"
+    },
+    {
+      "fired_at": 1777986086,
+      "insider_address": "0x5c40c1213840c223f5e3650d354711e557a684a9",
+      "insider_k_score": 100,
+      "fill_coin": "ETH",
+      "fill_side": "B",
+      "fill_notional_usd": 57160.8396,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mstr_earnings_20260507"
+    },
+    {
+      "fired_at": 1777986086,
+      "insider_address": "0x5c40c1213840c223f5e3650d354711e557a684a9",
+      "insider_k_score": 100,
+      "fill_coin": "ETH",
+      "fill_side": "B",
+      "fill_notional_usd": 84179.385,
+      "alert_severity": "critical",
+      "matched_anchor_id": "mstr_earnings_20260507"
+    }
+  ]
 }
