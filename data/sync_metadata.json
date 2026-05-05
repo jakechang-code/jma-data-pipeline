@@ -1,7 +1,7 @@
 {
-  "last_sync_ts": 1777968875,
-  "last_sync_iso": "2026-05-05 08:14:35 UTC",
-  "cron_run_id": "local_smoke_v674",
+  "last_sync_ts": 1777970430,
+  "last_sync_iso": "2026-05-05 08:40:30 UTC",
+  "cron_run_id": "cron_1777970430",
   "matrix_version": "EVENT_ASSET_MATRIX_v1.json",
   "forward_live_day_0": 1777949556,
   "forward_live_day": 0,
