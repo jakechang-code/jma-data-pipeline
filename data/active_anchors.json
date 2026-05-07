@@ -1,18 +1,8 @@
 {
-  "exported_at": 1778145538,
-  "exported_iso": "2026-05-07 09:18:58 UTC",
-  "count": 26,
+  "exported_at": 1778153041,
+  "exported_iso": "2026-05-07 11:24:01 UTC",
+  "count": 25,
   "anchors": [
-    {
-      "id": "macro_eu_ecb_1777881600",
-      "name": "EU ECB: Results of the ECB Survey of Professional Forecasters for the second quarter of ",
-      "event_group": "central_bank",
-      "event_time": 1777881600,
-      "status": "active",
-      "source_url": "https://www.ecb.europa.eu/rss/press.html",
-      "importance": "LOW",
-      "category": "central_bank"
-    },
     {
       "id": "macro_eu_ecb_1777894200",
       "name": "EU ECB: Piero Cipollone: Digital assets, payment efficiency and monetary policy",
