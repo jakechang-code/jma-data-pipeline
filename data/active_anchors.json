@@ -1,6 +1,267 @@
 {
-  "exported_at": 1778112538,
-  "exported_iso": "2026-05-07 00:08:58 UTC",
-  "count": 0,
-  "anchors": []
+  "exported_at": 1778115970,
+  "exported_iso": "2026-05-07 01:06:10 UTC",
+  "count": 26,
+  "anchors": [
+    {
+      "id": "macro_eu_ecb_1777881600",
+      "name": "EU ECB: Results of the ECB Survey of Professional Forecasters for the second quarter of ",
+      "event_group": "central_bank",
+      "event_time": 1777881600,
+      "status": "active",
+      "source_url": "https://www.ecb.europa.eu/rss/press.html",
+      "importance": "LOW",
+      "category": "central_bank"
+    },
+    {
+      "id": "macro_eu_ecb_1777894200",
+      "name": "EU ECB: Piero Cipollone: Digital assets, payment efficiency and monetary policy",
+      "event_group": "central_bank",
+      "event_time": 1777894200,
+      "status": "active",
+      "source_url": "https://www.ecb.europa.eu/rss/press.html",
+      "importance": "HIGH",
+      "category": "central_bank"
+    },
+    {
+      "id": "macro_eu_ecb_1777897800",
+      "name": "EU ECB: Luis de Guindos: Presentation of the ECB Annual Report 2025 to the Committee on ",
+      "event_group": "central_bank",
+      "event_time": 1777897800,
+      "status": "active",
+      "source_url": "https://www.ecb.europa.eu/rss/press.html",
+      "importance": "LOW",
+      "category": "central_bank"
+    },
+    {
+      "id": "earnings_pltr_20260504",
+      "name": "PLTR 法說會 — Palantir Technologies Inc.",
+      "event_group": "earnings",
+      "event_time": 1777899600,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "macro_eu_ecb_1777899600",
+      "name": "EU ECB: Decisions taken by the Governing Council of the ECB (in addition to decisions se",
+      "event_group": "central_bank",
+      "event_time": 1777899600,
+      "status": "active",
+      "source_url": "https://www.ecb.europa.eu/rss/press.html",
+      "importance": "HIGH",
+      "category": "central_bank"
+    },
+    {
+      "id": "earnings_pfe_20260505",
+      "name": "PFE 法說會 — Pfizer, Inc.",
+      "event_group": "earnings",
+      "event_time": 1777955400,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "earnings_amd_20260505",
+      "name": "AMD 法說會 — Advanced Micro Devices, Inc.",
+      "event_group": "earnings",
+      "event_time": 1777986000,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "earnings_smci_20260505",
+      "name": "SMCI 法說會 — Super Micro Computer, Inc.",
+      "event_group": "earnings",
+      "event_time": 1777986000,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "ecb_decision_20260506",
+      "name": "ECB 利率決議",
+      "event_group": "central_bank",
+      "event_time": 1777996800,
+      "status": "active",
+      "source_url": "",
+      "importance": "HIGH",
+      "category": "central_bank"
+    },
+    {
+      "id": "earnings_arm_20260506",
+      "name": "ARM 法說會 — Arm Holdings plc",
+      "event_group": "earnings",
+      "event_time": 1778072400,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "mstr_earnings_20260507",
+      "name": "MSTR Q2 2026 Earnings",
+      "event_group": "earnings_crypto_treasury",
+      "event_time": 1778083200,
+      "status": "active",
+      "source_url": "https://www.microstrategy.com/en/investor-relations",
+      "importance": "HIGH",
+      "category": "earnings_crypto_treasury"
+    },
+    {
+      "id": "mag7_nvda_20260508",
+      "name": "NVDA Q1 法說 [Mag 7]",
+      "event_group": "earnings",
+      "event_time": 1778169600,
+      "status": "active",
+      "source_url": "",
+      "importance": "HIGH",
+      "category": "earnings"
+    },
+    {
+      "id": "earnings_csco_20260513",
+      "name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "event_group": "earnings",
+      "event_time": 1778677200,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "us_cpi_20260514",
+      "name": "美 CPI 4 月",
+      "event_group": "macro_data",
+      "event_time": 1778688000,
+      "status": "active",
+      "source_url": "",
+      "importance": "HIGH",
+      "category": "macro_data"
+    },
+    {
+      "id": "china_us_trade_20260515",
+      "name": "美中貿易代表會談",
+      "event_group": "trade",
+      "event_time": 1778774400,
+      "status": "active",
+      "source_url": "",
+      "importance": "MEDIUM",
+      "category": "trade"
+    },
+    {
+      "id": "mag7_tsla_20260516",
+      "name": "TSLA Q1 法說 [Mag 7]",
+      "event_group": "earnings",
+      "event_time": 1778860800,
+      "status": "active",
+      "source_url": "",
+      "importance": "HIGH",
+      "category": "earnings"
+    },
+    {
+      "id": "earnings_hd_20260519",
+      "name": "HD 法說會 — Home Depot, Inc. (The)",
+      "event_group": "earnings",
+      "event_time": 1779165000,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "jp_cpi_20260520",
+      "name": "日本 CPI 4 月",
+      "event_group": "macro_data",
+      "event_time": 1779206400,
+      "status": "active",
+      "source_url": "",
+      "importance": "MEDIUM",
+      "category": "macro_data"
+    },
+    {
+      "id": "earnings_nvda_20260520",
+      "name": "NVDA 法說會 [Mag7] — NVIDIA Corporation",
+      "event_group": "earnings",
+      "event_time": 1779282000,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "HIGH",
+      "category": "earnings"
+    },
+    {
+      "id": "earnings_wmt_20260521",
+      "name": "WMT 法說會 — Walmart Inc.",
+      "event_group": "earnings",
+      "event_time": 1779337800,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "opec_jmmc_20260522",
+      "name": "OPEC+ JMMC 季度會議",
+      "event_group": "commodity",
+      "event_time": 1779379200,
+      "status": "active",
+      "source_url": "",
+      "importance": "MEDIUM",
+      "category": "commodity"
+    },
+    {
+      "id": "g7_summit_20260525",
+      "name": "G7 領袖峰會 (義大利)",
+      "event_group": "geopolitical",
+      "event_time": 1779638400,
+      "status": "active",
+      "source_url": "",
+      "importance": "MEDIUM",
+      "category": "geopolitical"
+    },
+    {
+      "id": "earnings_cost_20260528",
+      "name": "COST 法說會 — Costco Wholesale Corporation",
+      "event_group": "earnings",
+      "event_time": 1779973200,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "earnings_dell_20260528",
+      "name": "DELL 法說會 — Dell Technologies Inc.",
+      "event_group": "earnings",
+      "event_time": 1779973200,
+      "status": "active",
+      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
+      "importance": "MEDIUM",
+      "category": "earnings"
+    },
+    {
+      "id": "tether_attestation_20260630",
+      "name": "Tether Monthly Reserve Attestation (Jun 2026)",
+      "event_group": "stablecoin_disclosure",
+      "event_time": 1782748800,
+      "status": "active",
+      "source_url": "https://tether.to/en/transparency",
+      "importance": "MEDIUM",
+      "category": "stablecoin_disclosure"
+    },
+    {
+      "id": "tether_attestation_20260731",
+      "name": "Tether Monthly Reserve Attestation (Jul 2026)",
+      "event_group": "stablecoin_disclosure",
+      "event_time": 1785427200,
+      "status": "active",
+      "source_url": "https://tether.to/en/transparency",
+      "importance": "MEDIUM",
+      "category": "stablecoin_disclosure"
+    }
+  ]
 }
