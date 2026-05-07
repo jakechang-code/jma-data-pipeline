@@ -1,7 +1,7 @@
 {
-  "exported_at": 1778122816,
-  "exported_iso": "2026-05-07 03:00:16 UTC",
-  "cron_run_id": "cron_1778122816",
+  "exported_at": 1778126562,
+  "exported_iso": "2026-05-07 04:02:42 UTC",
+  "cron_run_id": "cron_1778126562",
   "window_hours": 24,
   "count": 19,
   "signals": [
