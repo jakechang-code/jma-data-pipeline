@@ -1,9 +1,9 @@
 {
-  "exported_at": 1778153041,
-  "exported_iso": "2026-05-07 11:24:01 UTC",
-  "cron_run_id": "cron_1778153041",
+  "exported_at": 1778159699,
+  "exported_iso": "2026-05-07 13:14:59 UTC",
+  "cron_run_id": "cron_1778159699",
   "window_hours": 24,
-  "count": 23,
+  "count": 18,
   "signals": [
     {
       "fired_at": 1778136249,
@@ -184,56 +184,6 @@
       "fill_notional_usd": 101646.48384,
       "alert_severity": "watch",
       "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778067087,
-      "insider_address": "0x5a9312c32337a4501c0faa982163ff15e177a0ca",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 194748.35225999999,
-      "alert_severity": "critical",
-      "matched_anchor_id": "mag7_nvda_20260508"
-    },
-    {
-      "fired_at": 1778067087,
-      "insider_address": "0x5a9312c32337a4501c0faa982163ff15e177a0ca",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 49996.43272,
-      "alert_severity": "critical",
-      "matched_anchor_id": "mag7_nvda_20260508"
-    },
-    {
-      "fired_at": 1778067087,
-      "insider_address": "0x5a9312c32337a4501c0faa982163ff15e177a0ca",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 108620.40209999999,
-      "alert_severity": "critical",
-      "matched_anchor_id": "mag7_nvda_20260508"
-    },
-    {
-      "fired_at": 1778067087,
-      "insider_address": "0x5a9312c32337a4501c0faa982163ff15e177a0ca",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 33323.511679999996,
-      "alert_severity": "critical",
-      "matched_anchor_id": "mag7_nvda_20260508"
-    },
-    {
-      "fired_at": 1778067087,
-      "insider_address": "0x5a9312c32337a4501c0faa982163ff15e177a0ca",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 37635.098,
-      "alert_severity": "critical",
-      "matched_anchor_id": "mag7_nvda_20260508"
     }
   ]
 }
