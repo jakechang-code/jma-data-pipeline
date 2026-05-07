@@ -1,18 +1,18 @@
 {
-  "last_sync_ts": 1778186449,
-  "last_sync_iso": "2026-05-07 20:40:49 UTC",
-  "cron_run_id": "cron_1778186449",
+  "last_sync_ts": 1778189870,
+  "last_sync_iso": "2026-05-07 21:37:50 UTC",
+  "cron_run_id": "cron_1778189870",
   "matrix_version": "EVENT_ASSET_MATRIX_v1.json",
   "forward_live_day_0": 1777949556,
   "forward_live_day": 2,
   "forward_live_days_remaining": 28,
   "counts": {
-    "signals_recent_24h": 4,
+    "signals_recent_24h": 38,
     "verified_insiders": 526,
     "active_anchors": 25
   },
-  "last_signal_fired_at": 1778136249,
-  "last_signal_age_min": 836.6666666666666,
+  "last_signal_fired_at": 1778189870,
+  "last_signal_age_min": 0.0,
   "health": "OK",
   "data_source": "https://raw.githubusercontent.com/jakechang-code/jma-data-pipeline/main/data/",
   "backtest_v5": {
