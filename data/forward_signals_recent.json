@@ -1,10 +1,350 @@
 {
-  "exported_at": 1778186449,
-  "exported_iso": "2026-05-07 20:40:49 UTC",
-  "cron_run_id": "cron_1778186449",
+  "exported_at": 1778189870,
+  "exported_iso": "2026-05-07 21:37:50 UTC",
+  "cron_run_id": "cron_1778189870",
   "window_hours": 24,
-  "count": 4,
+  "count": 38,
   "signals": [
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 525028.57533,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 31439.1898,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 62609.28548,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 150808.81941999999,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 32656.440959999996,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 93865.66,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 119819.02117999998,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 50999.28973999999,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 50998.89461,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 117272.033,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 50999.5812,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 99757.52223999999,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 169693.39406,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 50998.87052,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 117199.48224999999,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 74709.53234,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 156722.97292,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 229034.052,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 91226.53976999999,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 156589.06172,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 127644.92019,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 42612.3443,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 148509.90219,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 99465.89581999999,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 149011.02298,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 56711.45052,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 99345.72096,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 145522.07705,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 109146.99040000001,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 55607.21488000001,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 64165.75143999999,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 222689.01953,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 99065.70774,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
+    {
+      "fired_at": 1778189870,
+      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
+      "insider_k_score": 100,
+      "fill_coin": "xyz:GOLD",
+      "fill_side": "A",
+      "fill_notional_usd": 181456.01008,
+      "alert_severity": "critical",
+      "matched_anchor_id": "us_cpi_20260514"
+    },
     {
       "fired_at": 1778136249,
       "insider_address": "0x0a7097d919b7421ecc03aed3aac68a13e7ef1f46",
