@@ -1,10 +1,50 @@
 {
-  "exported_at": 1778126562,
-  "exported_iso": "2026-05-07 04:02:42 UTC",
-  "cron_run_id": "cron_1778126562",
+  "exported_at": 1778136249,
+  "exported_iso": "2026-05-07 06:44:09 UTC",
+  "cron_run_id": "cron_1778136249",
   "window_hours": 24,
-  "count": 19,
+  "count": 23,
   "signals": [
+    {
+      "fired_at": 1778136249,
+      "insider_address": "0x0a7097d919b7421ecc03aed3aac68a13e7ef1f46",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 34705.07988,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513"
+    },
+    {
+      "fired_at": 1778136249,
+      "insider_address": "0x0a7097d919b7421ecc03aed3aac68a13e7ef1f46",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 111993.88794,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513"
+    },
+    {
+      "fired_at": 1778136249,
+      "insider_address": "0x0a7097d919b7421ecc03aed3aac68a13e7ef1f46",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 300545.63401,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513"
+    },
+    {
+      "fired_at": 1778136249,
+      "insider_address": "0x0a7097d919b7421ecc03aed3aac68a13e7ef1f46",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 176963.05936,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513"
+    },
     {
       "fired_at": 1778087505,
       "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
