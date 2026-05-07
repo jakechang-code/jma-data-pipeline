@@ -1,9 +1,9 @@
 {
-  "exported_at": 1778168397,
-  "exported_iso": "2026-05-07 15:39:57 UTC",
-  "cron_run_id": "cron_1778168397",
+  "exported_at": 1778174753,
+  "exported_iso": "2026-05-07 17:25:53 UTC",
+  "cron_run_id": "cron_1778174753",
   "window_hours": 24,
-  "count": 18,
+  "count": 4,
   "signals": [
     {
       "fired_at": 1778136249,
@@ -42,146 +42,6 @@
       "fill_coin": "BTC",
       "fill_side": "B",
       "fill_notional_usd": 176963.05936,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 49999.77708000001,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 74999.66562,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 75007.51376,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 74996.70096,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 99995.46332,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 119999.12452,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 75007.09939999999,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 99999.12818,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 154996.3,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 74341.93587,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 180000.132,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 65260.0,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 120070.56162000001,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
-    },
-    {
-      "fired_at": 1778087505,
-      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "A",
-      "fill_notional_usd": 101646.48384,
       "alert_severity": "watch",
       "matched_anchor_id": "earnings_csco_20260513"
     }
