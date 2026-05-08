@@ -1,10 +1,230 @@
 {
-  "exported_at": 1778196943,
-  "exported_iso": "2026-05-07 23:35:43 UTC",
-  "cron_run_id": "cron_1778196943",
+  "exported_at": 1778203433,
+  "exported_iso": "2026-05-08 01:23:53 UTC",
+  "cron_run_id": "cron_1778203433",
   "window_hours": 24,
-  "count": 38,
+  "count": 49,
   "signals": [
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 50002.72275,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 37772.110499999995,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 55703.8575,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 31561.533,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 58836.25275,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 118122.95175000001,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 151597.88475,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 50005.91175,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 50005.91175,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 55703.8575,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
+    {
+      "fired_at": 1778203433,
+      "insider_address": "0x3e4e71d7a08d585e1b5bf885ddbecd8ff6ea15e0",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 59252.3632,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
     {
       "fired_at": 1778189870,
       "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
@@ -13,7 +233,18 @@
       "fill_side": "A",
       "fill_notional_usd": 525028.57533,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -23,7 +254,18 @@
       "fill_side": "A",
       "fill_notional_usd": 31439.1898,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -33,7 +275,18 @@
       "fill_side": "A",
       "fill_notional_usd": 62609.28548,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -43,7 +296,18 @@
       "fill_side": "A",
       "fill_notional_usd": 150808.81941999999,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -53,7 +317,18 @@
       "fill_side": "A",
       "fill_notional_usd": 32656.440959999996,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -63,7 +338,18 @@
       "fill_side": "A",
       "fill_notional_usd": 93865.66,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -73,7 +359,18 @@
       "fill_side": "A",
       "fill_notional_usd": 119819.02117999998,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -83,7 +380,18 @@
       "fill_side": "A",
       "fill_notional_usd": 50999.28973999999,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -93,7 +401,18 @@
       "fill_side": "A",
       "fill_notional_usd": 50998.89461,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -103,7 +422,18 @@
       "fill_side": "A",
       "fill_notional_usd": 117272.033,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -113,7 +443,18 @@
       "fill_side": "A",
       "fill_notional_usd": 50999.5812,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -123,7 +464,18 @@
       "fill_side": "A",
       "fill_notional_usd": 99757.52223999999,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -133,7 +485,18 @@
       "fill_side": "A",
       "fill_notional_usd": 169693.39406,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -143,7 +506,18 @@
       "fill_side": "A",
       "fill_notional_usd": 50998.87052,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -153,7 +527,18 @@
       "fill_side": "A",
       "fill_notional_usd": 117199.48224999999,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -163,7 +548,18 @@
       "fill_side": "A",
       "fill_notional_usd": 74709.53234,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -173,7 +569,18 @@
       "fill_side": "A",
       "fill_notional_usd": 156722.97292,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -183,7 +590,18 @@
       "fill_side": "A",
       "fill_notional_usd": 229034.052,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -193,7 +611,18 @@
       "fill_side": "A",
       "fill_notional_usd": 91226.53976999999,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -203,7 +632,18 @@
       "fill_side": "A",
       "fill_notional_usd": 156589.06172,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -213,7 +653,18 @@
       "fill_side": "A",
       "fill_notional_usd": 127644.92019,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -223,7 +674,18 @@
       "fill_side": "A",
       "fill_notional_usd": 42612.3443,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -233,7 +695,18 @@
       "fill_side": "A",
       "fill_notional_usd": 148509.90219,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -243,7 +716,18 @@
       "fill_side": "A",
       "fill_notional_usd": 99465.89581999999,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -253,7 +737,18 @@
       "fill_side": "A",
       "fill_notional_usd": 149011.02298,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -263,7 +758,18 @@
       "fill_side": "A",
       "fill_notional_usd": 56711.45052,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -273,7 +779,18 @@
       "fill_side": "A",
       "fill_notional_usd": 99345.72096,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -283,7 +800,18 @@
       "fill_side": "A",
       "fill_notional_usd": 145522.07705,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -293,7 +821,18 @@
       "fill_side": "A",
       "fill_notional_usd": 109146.99040000001,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -303,7 +842,18 @@
       "fill_side": "A",
       "fill_notional_usd": 55607.21488000001,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -313,7 +863,18 @@
       "fill_side": "A",
       "fill_notional_usd": 64165.75143999999,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -323,7 +884,18 @@
       "fill_side": "A",
       "fill_notional_usd": 222689.01953,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -333,7 +905,18 @@
       "fill_side": "A",
       "fill_notional_usd": 99065.70774,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778189870,
@@ -343,7 +926,18 @@
       "fill_side": "A",
       "fill_notional_usd": 181456.01008,
       "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514"
+      "matched_anchor_id": "us_cpi_20260514",
+      "z_score": 2.8,
+      "triggered_conditions": [
+        "E1",
+        "A"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "美 CPI 4 月",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778136249,
@@ -353,7 +947,17 @@
       "fill_side": "B",
       "fill_notional_usd": 34705.07988,
       "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778136249,
@@ -363,7 +967,17 @@
       "fill_side": "B",
       "fill_notional_usd": 111993.88794,
       "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778136249,
@@ -373,7 +987,17 @@
       "fill_side": "B",
       "fill_notional_usd": 300545.63401,
       "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     },
     {
       "fired_at": 1778136249,
@@ -383,7 +1007,17 @@
       "fill_side": "B",
       "fill_notional_usd": 176963.05936,
       "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513"
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
     }
   ]
 }
