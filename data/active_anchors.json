@@ -1,58 +1,8 @@
 {
-  "exported_at": 1778227374,
-  "exported_iso": "2026-05-08 08:02:54 UTC",
-  "count": 25,
+  "exported_at": 1778232635,
+  "exported_iso": "2026-05-08 09:30:35 UTC",
+  "count": 20,
   "anchors": [
-    {
-      "id": "macro_eu_ecb_1777894200",
-      "name": "EU ECB: Piero Cipollone: Digital assets, payment efficiency and monetary policy",
-      "event_group": "central_bank",
-      "event_time": 1777894200,
-      "status": "active",
-      "source_url": "https://www.ecb.europa.eu/rss/press.html",
-      "importance": "HIGH",
-      "category": "central_bank"
-    },
-    {
-      "id": "macro_eu_ecb_1777897800",
-      "name": "EU ECB: Luis de Guindos: Presentation of the ECB Annual Report 2025 to the Committee on ",
-      "event_group": "central_bank",
-      "event_time": 1777897800,
-      "status": "active",
-      "source_url": "https://www.ecb.europa.eu/rss/press.html",
-      "importance": "LOW",
-      "category": "central_bank"
-    },
-    {
-      "id": "earnings_pltr_20260504",
-      "name": "PLTR 法說會 — Palantir Technologies Inc.",
-      "event_group": "earnings",
-      "event_time": 1777899600,
-      "status": "active",
-      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
-      "importance": "MEDIUM",
-      "category": "earnings"
-    },
-    {
-      "id": "macro_eu_ecb_1777899600",
-      "name": "EU ECB: Decisions taken by the Governing Council of the ECB (in addition to decisions se",
-      "event_group": "central_bank",
-      "event_time": 1777899600,
-      "status": "active",
-      "source_url": "https://www.ecb.europa.eu/rss/press.html",
-      "importance": "HIGH",
-      "category": "central_bank"
-    },
-    {
-      "id": "earnings_pfe_20260505",
-      "name": "PFE 法說會 — Pfizer, Inc.",
-      "event_group": "earnings",
-      "event_time": 1777955400,
-      "status": "active",
-      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
-      "importance": "MEDIUM",
-      "category": "earnings"
-    },
     {
       "id": "earnings_amd_20260505",
       "name": "AMD 法說會 — Advanced Micro Devices, Inc.",
