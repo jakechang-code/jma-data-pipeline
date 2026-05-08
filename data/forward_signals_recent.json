@@ -1,10 +1,30 @@
 {
-  "exported_at": 1778249582,
-  "exported_iso": "2026-05-08 14:13:02 UTC",
-  "cron_run_id": "cron_1778249582",
+  "exported_at": 1778255643,
+  "exported_iso": "2026-05-08 15:54:03 UTC",
+  "cron_run_id": "cron_1778255643",
   "window_hours": 24,
   "count": 50,
   "signals": [
+    {
+      "fired_at": 1778255643,
+      "insider_address": "0x0ce048fe42c170e41740ee392e187f19515f339d",
+      "insider_k_score": 100,
+      "fill_coin": "BTC",
+      "fill_side": "B",
+      "fill_notional_usd": 63399.706999999995,
+      "alert_severity": "watch",
+      "matched_anchor_id": "earnings_csco_20260513",
+      "z_score": 2.3,
+      "triggered_conditions": [
+        "B"
+      ],
+      "asset_group_count": 1,
+      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
+      "is_mock_z_score": true,
+      "is_mock_triggers": true,
+      "is_mock_group_count": true,
+      "is_noise": false
+    },
     {
       "fired_at": 1778241904,
       "insider_address": "0x65250ffac3ff170f6e33c9123cf558e04013fa1a",
@@ -1002,27 +1022,6 @@
       "fill_coin": "xyz:GOLD",
       "fill_side": "A",
       "fill_notional_usd": 64165.75143999999,
-      "alert_severity": "critical",
-      "matched_anchor_id": "us_cpi_20260514",
-      "z_score": 2.8,
-      "triggered_conditions": [
-        "E1",
-        "A"
-      ],
-      "asset_group_count": 1,
-      "anchor_name": "美 CPI 4 月",
-      "is_mock_z_score": true,
-      "is_mock_triggers": true,
-      "is_mock_group_count": true,
-      "is_noise": false
-    },
-    {
-      "fired_at": 1778189870,
-      "insider_address": "0x32008fcb6bbd16532afc83ca8b6c920dde22c407",
-      "insider_k_score": 100,
-      "fill_coin": "xyz:GOLD",
-      "fill_side": "A",
-      "fill_notional_usd": 222689.01953,
       "alert_severity": "critical",
       "matched_anchor_id": "us_cpi_20260514",
       "z_score": 2.8,
