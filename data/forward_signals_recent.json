@@ -1,29 +1,8 @@
 {
-  "exported_at": 1778339152,
-  "exported_iso": "2026-05-09 15:05:52 UTC",
-  "cron_run_id": "cron_1778339152",
+  "exported_at": 1778342664,
+  "exported_iso": "2026-05-09 16:04:24 UTC",
+  "cron_run_id": "cron_1778342664",
   "window_hours": 24,
-  "count": 1,
-  "signals": [
-    {
-      "fired_at": 1778255643,
-      "insider_address": "0x0ce048fe42c170e41740ee392e187f19515f339d",
-      "insider_k_score": 100,
-      "fill_coin": "BTC",
-      "fill_side": "B",
-      "fill_notional_usd": 63399.706999999995,
-      "alert_severity": "watch",
-      "matched_anchor_id": "earnings_csco_20260513",
-      "z_score": 2.3,
-      "triggered_conditions": [
-        "B"
-      ],
-      "asset_group_count": 1,
-      "anchor_name": "CSCO 法說會 — Cisco Systems, Inc.",
-      "is_mock_z_score": true,
-      "is_mock_triggers": true,
-      "is_mock_group_count": true,
-      "is_noise": false
-    }
-  ]
+  "count": 0,
+  "signals": []
 }
