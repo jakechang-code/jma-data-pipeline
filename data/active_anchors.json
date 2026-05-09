@@ -1,38 +1,8 @@
 {
-  "exported_at": 1778314975,
-  "exported_iso": "2026-05-09 08:22:55 UTC",
-  "count": 20,
+  "exported_at": 1778320252,
+  "exported_iso": "2026-05-09 09:50:52 UTC",
+  "count": 17,
   "anchors": [
-    {
-      "id": "earnings_amd_20260505",
-      "name": "AMD 法說會 — Advanced Micro Devices, Inc.",
-      "event_group": "earnings",
-      "event_time": 1777986000,
-      "status": "active",
-      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
-      "importance": "MEDIUM",
-      "category": "earnings"
-    },
-    {
-      "id": "earnings_smci_20260505",
-      "name": "SMCI 法說會 — Super Micro Computer, Inc.",
-      "event_group": "earnings",
-      "event_time": 1777986000,
-      "status": "active",
-      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
-      "importance": "MEDIUM",
-      "category": "earnings"
-    },
-    {
-      "id": "ecb_decision_20260506",
-      "name": "ECB 利率決議",
-      "event_group": "central_bank",
-      "event_time": 1777996800,
-      "status": "active",
-      "source_url": "",
-      "importance": "HIGH",
-      "category": "central_bank"
-    },
     {
       "id": "earnings_arm_20260506",
       "name": "ARM 法說會 — Arm Holdings plc",
