@@ -1,28 +1,8 @@
 {
-  "exported_at": 1778401973,
-  "exported_iso": "2026-05-10 08:32:53 UTC",
-  "count": 17,
+  "exported_at": 1778407132,
+  "exported_iso": "2026-05-10 09:58:52 UTC",
+  "count": 15,
   "anchors": [
-    {
-      "id": "earnings_arm_20260506",
-      "name": "ARM 法說會 — Arm Holdings plc",
-      "event_group": "earnings",
-      "event_time": 1778072400,
-      "status": "active",
-      "source_url": "https://api.nasdaq.com/api/calendar/earnings",
-      "importance": "MEDIUM",
-      "category": "earnings"
-    },
-    {
-      "id": "mstr_earnings_20260507",
-      "name": "MSTR Q2 2026 Earnings",
-      "event_group": "earnings_crypto_treasury",
-      "event_time": 1778083200,
-      "status": "active",
-      "source_url": "https://www.microstrategy.com/en/investor-relations",
-      "importance": "HIGH",
-      "category": "earnings_crypto_treasury"
-    },
     {
       "id": "mag7_nvda_20260508",
       "name": "NVDA Q1 法說 [Mag 7]",
