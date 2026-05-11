@@ -1,0 +1,3989 @@
+{
+  "ts": 1778470785,
+  "version": "v1.5",
+  "iso": "2026-05-11T03:39:45Z",
+  "method": "rescan_526 + leaderboard_attempt",
+  "candidates_scanned": 526,
+  "candidates_empty": 380,
+  "candidates_below_threshold": 88,
+  "qualified_count": 58,
+  "threshold_pct_d90": 5.0,
+  "min_volume_usd": 1000,
+  "meta": {
+    "run_seconds": 236.3,
+    "source_breakdown": {
+      "526_rescan": 58,
+      "leaderboard": 0
+    },
+    "note": "v1.5 第一版: 重掃 526 + 嘗試 HL leaderboard. 若 qualified=0 → 確認需 v1.6 手動 seed candidate pool (從 HyperDash 排行榜 / Arkham label / Twitter watchlist 灌入)."
+  },
+  "insiders": [
+    {
+      "address": "0x0e0bf22e3595687a8756e1e9862a20944d0be57e",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 23220165.78,
+      "traditional_volume_usd_d180": 23220165.78,
+      "total_volume_d90": 38450841.66,
+      "total_volume_d180": 38450841.66,
+      "traditional_pct_d90": 60.39,
+      "traditional_pct_d180": 60.39,
+      "last_traditional_fill_ts": 1778063116,
+      "traditional_categories": [
+        "energy"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "BRENTOIL",
+          "volume": 14554493.65,
+          "n_fills": 648,
+          "buy_vol": 10017920.97,
+          "sell_vol": 4536572.68,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778063116,
+          "category": "energy"
+        },
+        {
+          "asset": "CL",
+          "volume": 8665672.13,
+          "n_fills": 309,
+          "buy_vol": 7666328.54,
+          "sell_vol": 999343.58,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777557989,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0xe9169cb720a0da10fd01b311a108d15a14d18add",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 18076420.89,
+      "traditional_volume_usd_d180": 18076420.89,
+      "total_volume_d90": 18468820.07,
+      "total_volume_d180": 18468820.07,
+      "traditional_pct_d90": 97.88,
+      "traditional_pct_d180": 97.88,
+      "last_traditional_fill_ts": 1778020270,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SNDK",
+          "volume": 5964694.41,
+          "n_fills": 678,
+          "buy_vol": 3165292.11,
+          "sell_vol": 2799402.3,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778020269,
+          "category": "equity_single"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 5329096.18,
+          "n_fills": 391,
+          "buy_vol": 2661427.81,
+          "sell_vol": 2667668.37,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777908367,
+          "category": "equity_index"
+        },
+        {
+          "asset": "INTC",
+          "volume": 4404130.93,
+          "n_fills": 649,
+          "buy_vol": 2260510.65,
+          "sell_vol": 2143620.28,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777997891,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 1256138.77,
+          "n_fills": 162,
+          "buy_vol": 625669.5,
+          "sell_vol": 630469.28,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777988005,
+          "category": "energy"
+        },
+        {
+          "asset": "MU",
+          "volume": 1122360.6,
+          "n_fills": 87,
+          "buy_vol": 569902.54,
+          "sell_vol": 552458.07,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778020270,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xed5ac3d0e5e1e9ce17ef582eeb45dcf3280b8201",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 15939206.21,
+      "traditional_volume_usd_d180": 15939206.21,
+      "total_volume_d90": 16466383.87,
+      "total_volume_d180": 16466383.87,
+      "traditional_pct_d90": 96.8,
+      "traditional_pct_d180": 96.8,
+      "last_traditional_fill_ts": 1778424290,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "BRENTOIL",
+          "volume": 6646526.84,
+          "n_fills": 617,
+          "buy_vol": 3302835.26,
+          "sell_vol": 3343691.58,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777469553,
+          "category": "energy"
+        },
+        {
+          "asset": "CL",
+          "volume": 4123038.44,
+          "n_fills": 436,
+          "buy_vol": 2021109.32,
+          "sell_vol": 2101929.12,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775601580,
+          "category": "energy"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 2354461.23,
+          "n_fills": 176,
+          "buy_vol": 1371589.83,
+          "sell_vol": 982871.41,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778424290,
+          "category": "equity_single"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 1305370.5,
+          "n_fills": 94,
+          "buy_vol": 650808.66,
+          "sell_vol": 654561.85,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776965395,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SP500",
+          "volume": 709953.71,
+          "n_fills": 32,
+          "buy_vol": 233150.16,
+          "sell_vol": 476803.55,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776966124,
+          "category": "equity_index"
+        },
+        {
+          "asset": "INTC",
+          "volume": 453478.53,
+          "n_fills": 17,
+          "buy_vol": 221160.84,
+          "sell_vol": 232317.69,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777556898,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MU",
+          "volume": 346376.96,
+          "n_fills": 54,
+          "buy_vol": 142992.81,
+          "sell_vol": 203384.15,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777861247,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x5a9312c32337a4501c0faa982163ff15e177a0ca",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 11188928.12,
+      "traditional_volume_usd_d180": 11188928.12,
+      "total_volume_d90": 17136836.32,
+      "total_volume_d180": 17136836.32,
+      "traditional_pct_d90": 65.29,
+      "traditional_pct_d180": 65.29,
+      "last_traditional_fill_ts": 1778076809,
+      "traditional_categories": [
+        "energy",
+        "equity_index"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 5713940.32,
+          "n_fills": 589,
+          "buy_vol": 2842262.11,
+          "sell_vol": 2871678.22,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778076809,
+          "category": "energy"
+        },
+        {
+          "asset": "SP500",
+          "volume": 3145104.73,
+          "n_fills": 379,
+          "buy_vol": 1573841.79,
+          "sell_vol": 1571262.93,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776962070,
+          "category": "equity_index"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 2329883.07,
+          "n_fills": 367,
+          "buy_vol": 1371702.04,
+          "sell_vol": 958181.03,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776677378,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0xa2ce501d9c0c5e23d34272f84402cfb7835b3126",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 11186705.24,
+      "traditional_volume_usd_d180": 11186705.24,
+      "total_volume_d90": 16644068.87,
+      "total_volume_d180": 16644068.87,
+      "traditional_pct_d90": 67.21,
+      "traditional_pct_d180": 67.21,
+      "last_traditional_fill_ts": 1778459102,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "BRENTOIL",
+          "volume": 3600964.85,
+          "n_fills": 259,
+          "buy_vol": 428145.0,
+          "sell_vol": 3172819.85,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777523970,
+          "category": "energy"
+        },
+        {
+          "asset": "CL",
+          "volume": 3462482.73,
+          "n_fills": 720,
+          "buy_vol": 405895.0,
+          "sell_vol": 3056587.73,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777523853,
+          "category": "energy"
+        },
+        {
+          "asset": "SP500",
+          "volume": 2402396.88,
+          "n_fills": 98,
+          "buy_vol": 0.0,
+          "sell_vol": 2402396.88,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778330317,
+          "category": "equity_index"
+        },
+        {
+          "asset": "AMD",
+          "volume": 1393672.5,
+          "n_fills": 112,
+          "buy_vol": 0.0,
+          "sell_vol": 1393672.5,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778313170,
+          "category": "equity_single"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 294876.3,
+          "n_fills": 416,
+          "buy_vol": 0.0,
+          "sell_vol": 294876.3,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778314637,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 32312.0,
+          "n_fills": 23,
+          "buy_vol": 16483.0,
+          "sell_vol": 15829.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778459102,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xf348f3ccb83974f3c8a6a6b17698a6f9a463e19f",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 9462914.61,
+      "traditional_volume_usd_d180": 9462914.61,
+      "total_volume_d90": 14219911.21,
+      "total_volume_d180": 14219911.21,
+      "traditional_pct_d90": 66.55,
+      "traditional_pct_d180": 66.55,
+      "last_traditional_fill_ts": 1778455222,
+      "traditional_categories": [
+        "energy",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "GOLD",
+          "volume": 5058325.47,
+          "n_fills": 588,
+          "buy_vol": 2713082.29,
+          "sell_vol": 2345243.18,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778059998,
+          "category": "metals"
+        },
+        {
+          "asset": "INTC",
+          "volume": 2114229.66,
+          "n_fills": 275,
+          "buy_vol": 1066483.5,
+          "sell_vol": 1047746.16,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1773157289,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CL",
+          "volume": 1302451.68,
+          "n_fills": 158,
+          "buy_vol": 531435.94,
+          "sell_vol": 771015.75,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1773580120,
+          "category": "energy"
+        },
+        {
+          "asset": "MSTR",
+          "volume": 711803.12,
+          "n_fills": 262,
+          "buy_vol": 359148.9,
+          "sell_vol": 352654.22,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1773699386,
+          "category": "equity_single"
+        },
+        {
+          "asset": "COPPER",
+          "volume": 176047.61,
+          "n_fills": 24,
+          "buy_vol": 176047.61,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778455222,
+          "category": "metals"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 100057.06,
+          "n_fills": 6,
+          "buy_vol": 100057.06,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778160829,
+          "category": "metals"
+        }
+      ]
+    },
+    {
+      "address": "0xab04d040dec929a204298d44701476968b238b69",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 6337508.37,
+      "traditional_volume_usd_d180": 6337508.37,
+      "total_volume_d90": 23224714.07,
+      "total_volume_d180": 23224714.07,
+      "traditional_pct_d90": 27.29,
+      "traditional_pct_d180": 27.29,
+      "last_traditional_fill_ts": 1778430235,
+      "traditional_categories": [
+        "equity_index"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "XYZ100",
+          "volume": 4288068.2,
+          "n_fills": 530,
+          "buy_vol": 1936266.33,
+          "sell_vol": 2351801.87,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778430235,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SP500",
+          "volume": 2049440.17,
+          "n_fills": 63,
+          "buy_vol": 1022015.27,
+          "sell_vol": 1027424.9,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778175273,
+          "category": "equity_index"
+        }
+      ]
+    },
+    {
+      "address": "0x5bcb085d7fadba61507a3aee9e832cbfa331f5dd",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 5612954.84,
+      "traditional_volume_usd_d180": 5612954.84,
+      "total_volume_d90": 63133799.34,
+      "total_volume_d180": 63133799.34,
+      "traditional_pct_d90": 8.89,
+      "traditional_pct_d180": 8.89,
+      "last_traditional_fill_ts": 1778284847,
+      "traditional_categories": [
+        "energy"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 5612954.84,
+          "n_fills": 458,
+          "buy_vol": 1934593.66,
+          "sell_vol": 3678361.18,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778284847,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0xe9cef9fd872a03cedf9d3e6e90309782b3724ea6",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 5560139.44,
+      "traditional_volume_usd_d180": 5560139.44,
+      "total_volume_d90": 12900158.17,
+      "total_volume_d180": 12900158.17,
+      "traditional_pct_d90": 43.1,
+      "traditional_pct_d180": 43.1,
+      "last_traditional_fill_ts": 1778251870,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "fx",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "GOLD",
+          "volume": 1870433.79,
+          "n_fills": 349,
+          "buy_vol": 934303.39,
+          "sell_vol": 936130.41,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775581603,
+          "category": "metals"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 1019829.42,
+          "n_fills": 175,
+          "buy_vol": 572718.0,
+          "sell_vol": 447111.42,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777911019,
+          "category": "metals"
+        },
+        {
+          "asset": "SP500",
+          "volume": 668238.42,
+          "n_fills": 46,
+          "buy_vol": 314040.89,
+          "sell_vol": 354197.53,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778251859,
+          "category": "equity_index"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 511540.48,
+          "n_fills": 93,
+          "buy_vol": 256229.89,
+          "sell_vol": 255310.58,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777909851,
+          "category": "energy"
+        },
+        {
+          "asset": "CL",
+          "volume": 489223.74,
+          "n_fills": 86,
+          "buy_vol": 237623.85,
+          "sell_vol": 251599.89,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777910896,
+          "category": "energy"
+        },
+        {
+          "asset": "JPY",
+          "volume": 377410.99,
+          "n_fills": 213,
+          "buy_vol": 194980.83,
+          "sell_vol": 182430.15,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775034338,
+          "category": "fx"
+        },
+        {
+          "asset": "COPPER",
+          "volume": 357813.59,
+          "n_fills": 174,
+          "buy_vol": 169493.25,
+          "sell_vol": 188320.34,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777876225,
+          "category": "metals"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 265649.02,
+          "n_fills": 48,
+          "buy_vol": 116148.52,
+          "sell_vol": 149500.5,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778251870,
+          "category": "equity_index"
+        }
+      ]
+    },
+    {
+      "address": "0x663f2673c6cef165d4e027585ed300a6b74245da",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 5010754.61,
+      "traditional_volume_usd_d180": 5010754.61,
+      "total_volume_d90": 24516379.83,
+      "total_volume_d180": 24516379.83,
+      "traditional_pct_d90": 20.44,
+      "traditional_pct_d180": 20.44,
+      "last_traditional_fill_ts": 1778457788,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "BRENTOIL",
+          "volume": 4147030.65,
+          "n_fills": 265,
+          "buy_vol": 2141965.93,
+          "sell_vol": 2005064.72,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778032104,
+          "category": "energy"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 249997.4,
+          "n_fills": 37,
+          "buy_vol": 0.0,
+          "sell_vol": 249997.4,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777440525,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SP500",
+          "volume": 249994.7,
+          "n_fills": 6,
+          "buy_vol": 0.0,
+          "sell_vol": 249994.7,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777466965,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 213286.42,
+          "n_fills": 25,
+          "buy_vol": 113288.3,
+          "sell_vol": 99998.12,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778457788,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 100277.5,
+          "n_fills": 11,
+          "buy_vol": 100277.5,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778070043,
+          "category": "metals"
+        },
+        {
+          "asset": "CL",
+          "volume": 50167.94,
+          "n_fills": 6,
+          "buy_vol": 50167.94,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778032098,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x0252f92ee3f4430ac419fc3e9ae31df718990842",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 4793729.69,
+      "traditional_volume_usd_d180": 4793729.69,
+      "total_volume_d90": 9906866.1,
+      "total_volume_d180": 9906866.1,
+      "traditional_pct_d90": 48.39,
+      "traditional_pct_d180": 48.39,
+      "last_traditional_fill_ts": 1778459554,
+      "traditional_categories": [
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "USA500",
+          "volume": 1340201.18,
+          "n_fills": 82,
+          "buy_vol": 812465.35,
+          "sell_vol": 527735.83,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776199654,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SP500",
+          "volume": 1206950.48,
+          "n_fills": 112,
+          "buy_vol": 603641.78,
+          "sell_vol": 603308.7,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775461306,
+          "category": "equity_index"
+        },
+        {
+          "asset": "MU",
+          "volume": 795621.12,
+          "n_fills": 137,
+          "buy_vol": 399161.29,
+          "sell_vol": 396459.83,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777934364,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CRWV",
+          "volume": 329119.81,
+          "n_fills": 35,
+          "buy_vol": 166472.5,
+          "sell_vol": 162647.31,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776844089,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 265357.19,
+          "n_fills": 111,
+          "buy_vol": 175502.25,
+          "sell_vol": 89854.93,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776116223,
+          "category": "equity_single"
+        },
+        {
+          "asset": "HIMS",
+          "volume": 224106.13,
+          "n_fills": 48,
+          "buy_vol": 112439.37,
+          "sell_vol": 111666.76,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778459554,
+          "category": "equity_single"
+        },
+        {
+          "asset": "ORCL",
+          "volume": 168478.13,
+          "n_fills": 15,
+          "buy_vol": 84202.7,
+          "sell_vol": 84275.43,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777635478,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 165134.25,
+          "n_fills": 82,
+          "buy_vol": 82459.49,
+          "sell_vol": 82674.77,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776339014,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 115318.98,
+          "n_fills": 32,
+          "buy_vol": 57475.84,
+          "sell_vol": 57843.14,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776001722,
+          "category": "equity_single"
+        },
+        {
+          "asset": "LLY",
+          "volume": 96462.12,
+          "n_fills": 10,
+          "buy_vol": 0.0,
+          "sell_vol": 96462.12,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777913890,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xb1ec7febea4f841d525785955b7fe0e812d6e86a",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 4609646.08,
+      "traditional_volume_usd_d180": 4609646.08,
+      "total_volume_d90": 6108111.69,
+      "total_volume_d180": 6108111.69,
+      "traditional_pct_d90": 75.47,
+      "traditional_pct_d180": 75.47,
+      "last_traditional_fill_ts": 1778470533,
+      "traditional_categories": [
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SNDK",
+          "volume": 4121124.28,
+          "n_fills": 1208,
+          "buy_vol": 2567229.99,
+          "sell_vol": 1553894.28,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778461334,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMD",
+          "volume": 326104.03,
+          "n_fills": 272,
+          "buy_vol": 111396.06,
+          "sell_vol": 214707.97,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778452645,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MU",
+          "volume": 154995.55,
+          "n_fills": 198,
+          "buy_vol": 32964.71,
+          "sell_vol": 122030.84,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778470533,
+          "category": "equity_single"
+        },
+        {
+          "asset": "OPENAI",
+          "volume": 7380.83,
+          "n_fills": 8,
+          "buy_vol": 7380.83,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778401616,
+          "category": "equity_single"
+        },
+        {
+          "asset": "ANTHROPIC",
+          "volume": 41.39,
+          "n_fills": 2,
+          "buy_vol": 20.36,
+          "sell_vol": 21.02,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778459505,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x5e54e19114a691754ea760453997ce30812c2bbf",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 4471878.69,
+      "traditional_volume_usd_d180": 4471878.69,
+      "total_volume_d90": 5538377.08,
+      "total_volume_d180": 5538377.08,
+      "traditional_pct_d90": 80.74,
+      "traditional_pct_d180": 80.74,
+      "last_traditional_fill_ts": 1778459033,
+      "traditional_categories": [
+        "energy",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SNDK",
+          "volume": 1998585.31,
+          "n_fills": 270,
+          "buy_vol": 1180692.95,
+          "sell_vol": 817892.36,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778459033,
+          "category": "equity_single"
+        },
+        {
+          "asset": "INTC",
+          "volume": 656327.39,
+          "n_fills": 129,
+          "buy_vol": 335769.04,
+          "sell_vol": 320558.35,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778018237,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CL",
+          "volume": 508085.36,
+          "n_fills": 311,
+          "buy_vol": 255738.62,
+          "sell_vol": 252346.74,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778334050,
+          "category": "energy"
+        },
+        {
+          "asset": "MU",
+          "volume": 245572.95,
+          "n_fills": 170,
+          "buy_vol": 134868.07,
+          "sell_vol": 110704.88,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778414644,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 241839.86,
+          "n_fills": 74,
+          "buy_vol": 0.0,
+          "sell_vol": 241839.86,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778247376,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MSTR",
+          "volume": 212801.27,
+          "n_fills": 71,
+          "buy_vol": 105722.08,
+          "sell_vol": 107079.19,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778184412,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CRWV",
+          "volume": 160231.98,
+          "n_fills": 21,
+          "buy_vol": 79196.16,
+          "sell_vol": 81035.83,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778217611,
+          "category": "equity_single"
+        },
+        {
+          "asset": "PLTR",
+          "volume": 143390.25,
+          "n_fills": 48,
+          "buy_vol": 143390.25,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778247079,
+          "category": "equity_single"
+        },
+        {
+          "asset": "META",
+          "volume": 129914.56,
+          "n_fills": 25,
+          "buy_vol": 119446.63,
+          "sell_vol": 10467.93,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777988422,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 74822.93,
+          "n_fills": 44,
+          "buy_vol": 74822.93,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777644021,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x12808ee0d6b9fd4723487b3dc110452b2bf75fba",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 4232527.79,
+      "traditional_volume_usd_d180": 4232527.79,
+      "total_volume_d90": 11313497.46,
+      "total_volume_d180": 11313497.46,
+      "traditional_pct_d90": 37.41,
+      "traditional_pct_d180": 37.41,
+      "last_traditional_fill_ts": 1778261985,
+      "traditional_categories": [
+        "energy",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "GOLD",
+          "volume": 3347696.23,
+          "n_fills": 511,
+          "buy_vol": 1765212.24,
+          "sell_vol": 1582484.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778174823,
+          "category": "metals"
+        },
+        {
+          "asset": "CL",
+          "volume": 459876.08,
+          "n_fills": 51,
+          "buy_vol": 191169.04,
+          "sell_vol": 268707.03,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1774374952,
+          "category": "energy"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 318462.55,
+          "n_fills": 57,
+          "buy_vol": 111980.24,
+          "sell_vol": 206482.31,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778261985,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MSTR",
+          "volume": 54470.15,
+          "n_fills": 9,
+          "buy_vol": 0.0,
+          "sell_vol": 54470.15,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776109702,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 52022.78,
+          "n_fills": 62,
+          "buy_vol": 0.0,
+          "sell_vol": 52022.78,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776109732,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x041836d6c0617c694b70b57680f45905811076db",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 4128529.17,
+      "traditional_volume_usd_d180": 4128529.17,
+      "total_volume_d90": 12742926.68,
+      "total_volume_d180": 12742926.68,
+      "traditional_pct_d90": 32.4,
+      "traditional_pct_d180": 32.4,
+      "last_traditional_fill_ts": 1777494681,
+      "traditional_categories": [
+        "equity_index"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "XYZ100",
+          "volume": 4128529.17,
+          "n_fills": 191,
+          "buy_vol": 2715002.26,
+          "sell_vol": 1413526.92,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777494681,
+          "category": "equity_index"
+        }
+      ]
+    },
+    {
+      "address": "0x05b51f53f09155478af947f0b6bfca30f2fc3aaa",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 3855410.4,
+      "traditional_volume_usd_d180": 3915480.09,
+      "total_volume_d90": 8409189.26,
+      "total_volume_d180": 9021897.2,
+      "traditional_pct_d90": 45.85,
+      "traditional_pct_d180": 43.4,
+      "last_traditional_fill_ts": 1778190575,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SP500",
+          "volume": 1567877.06,
+          "n_fills": 130,
+          "buy_vol": 783371.83,
+          "sell_vol": 784505.24,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778190575,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 1199146.18,
+          "n_fills": 107,
+          "buy_vol": 599551.29,
+          "sell_vol": 599594.89,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1773856952,
+          "category": "metals"
+        },
+        {
+          "asset": "CL",
+          "volume": 695871.5,
+          "n_fills": 96,
+          "buy_vol": 349992.08,
+          "sell_vol": 345879.42,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776792960,
+          "category": "energy"
+        },
+        {
+          "asset": "NATGAS",
+          "volume": 200276.21,
+          "n_fills": 25,
+          "buy_vol": 99999.72,
+          "sell_vol": 100276.49,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1773863234,
+          "category": "energy"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 192239.44,
+          "n_fills": 13,
+          "buy_vol": 96127.04,
+          "sell_vol": 96112.4,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1774044166,
+          "category": "energy"
+        },
+        {
+          "asset": "PLATINUM",
+          "volume": 20130.76,
+          "n_fills": 8,
+          "buy_vol": 10012.07,
+          "sell_vol": 10118.69,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1769695212,
+          "category": "metals"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 19972.21,
+          "n_fills": 9,
+          "buy_vol": 9975.17,
+          "sell_vol": 9997.04,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1767850364,
+          "category": "metals"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 19966.72,
+          "n_fills": 15,
+          "buy_vol": 9969.73,
+          "sell_vol": 9996.99,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1768837418,
+          "category": "equity_index"
+        }
+      ]
+    },
+    {
+      "address": "0x092fc6759a3b5dc91dba06af89f4f8775b2a3d53",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 3698565.14,
+      "traditional_volume_usd_d180": 3698565.14,
+      "total_volume_d90": 9462483.03,
+      "total_volume_d180": 9462483.03,
+      "traditional_pct_d90": 39.09,
+      "traditional_pct_d180": 39.09,
+      "last_traditional_fill_ts": 1778452463,
+      "traditional_categories": [
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "AMZN",
+          "volume": 2655293.62,
+          "n_fills": 714,
+          "buy_vol": 1317620.95,
+          "sell_vol": 1337672.67,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777642807,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MU",
+          "volume": 395888.82,
+          "n_fills": 310,
+          "buy_vol": 387728.7,
+          "sell_vol": 8160.12,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778452463,
+          "category": "equity_single"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 318044.39,
+          "n_fills": 36,
+          "buy_vol": 257591.5,
+          "sell_vol": 60452.89,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776248155,
+          "category": "equity_index"
+        },
+        {
+          "asset": "MSFT",
+          "volume": 169336.46,
+          "n_fills": 23,
+          "buy_vol": 84221.61,
+          "sell_vol": 85114.85,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777239399,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOOGL",
+          "volume": 160001.85,
+          "n_fills": 75,
+          "buy_vol": 79982.61,
+          "sell_vol": 80019.25,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777485837,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xa3bd669bbb7fc764ea941587466ac710bb9e3609",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 3379685.11,
+      "traditional_volume_usd_d180": 3379685.11,
+      "total_volume_d90": 10905763.39,
+      "total_volume_d180": 10905763.39,
+      "traditional_pct_d90": 30.99,
+      "traditional_pct_d180": 30.99,
+      "last_traditional_fill_ts": 1778219330,
+      "traditional_categories": [
+        "energy",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 2238212.98,
+          "n_fills": 306,
+          "buy_vol": 1121670.82,
+          "sell_vol": 1116542.16,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775958244,
+          "category": "energy"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 744823.32,
+          "n_fills": 199,
+          "buy_vol": 372160.73,
+          "sell_vol": 372662.59,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775944529,
+          "category": "metals"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 396648.81,
+          "n_fills": 80,
+          "buy_vol": 192644.51,
+          "sell_vol": 204004.29,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778219330,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x10a7ac85ef2d678a4420c4dc59d8cd7dab8767db",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2825579.33,
+      "traditional_volume_usd_d180": 2930745.19,
+      "total_volume_d90": 7911631.29,
+      "total_volume_d180": 11275852.47,
+      "traditional_pct_d90": 35.71,
+      "traditional_pct_d180": 25.99,
+      "last_traditional_fill_ts": 1778081398,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 1650843.95,
+          "n_fills": 266,
+          "buy_vol": 824986.15,
+          "sell_vol": 825857.8,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778081398,
+          "category": "energy"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 853107.93,
+          "n_fills": 204,
+          "buy_vol": 423108.84,
+          "sell_vol": 429999.09,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775030154,
+          "category": "energy"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 222450.97,
+          "n_fills": 48,
+          "buy_vol": 110893.98,
+          "sell_vol": 111556.98,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775591237,
+          "category": "metals"
+        },
+        {
+          "asset": "SP500",
+          "volume": 54000.31,
+          "n_fills": 19,
+          "buy_vol": 26951.77,
+          "sell_vol": 27048.53,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1774383679,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 38687.14,
+          "n_fills": 13,
+          "buy_vol": 19700.63,
+          "sell_vol": 18986.52,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1769735063,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 27259.42,
+          "n_fills": 10,
+          "buy_vol": 13533.59,
+          "sell_vol": 13725.83,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1770219179,
+          "category": "metals"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 22671.57,
+          "n_fills": 16,
+          "buy_vol": 11143.97,
+          "sell_vol": 11527.6,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777492961,
+          "category": "equity_single"
+        },
+        {
+          "asset": "PLTR",
+          "volume": 19773.31,
+          "n_fills": 6,
+          "buy_vol": 9786.49,
+          "sell_vol": 9986.82,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1766239582,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOOGL",
+          "volume": 19445.99,
+          "n_fills": 29,
+          "buy_vol": 9746.83,
+          "sell_vol": 9699.16,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1770240733,
+          "category": "equity_single"
+        },
+        {
+          "asset": "INTC",
+          "volume": 12233.53,
+          "n_fills": 5,
+          "buy_vol": 6302.53,
+          "sell_vol": 5931.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777369231,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xe86351e0f69bd808def36e7bb2f9107443838bb8",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2803329.39,
+      "traditional_volume_usd_d180": 2803329.39,
+      "total_volume_d90": 9242314.87,
+      "total_volume_d180": 9242314.87,
+      "traditional_pct_d90": 30.33,
+      "traditional_pct_d180": 30.33,
+      "last_traditional_fill_ts": 1778462595,
+      "traditional_categories": [
+        "energy",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "ORCL",
+          "volume": 2164257.0,
+          "n_fills": 277,
+          "buy_vol": 459936.96,
+          "sell_vol": 1704320.04,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778462595,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 539393.76,
+          "n_fills": 42,
+          "buy_vol": 119761.6,
+          "sell_vol": 419632.16,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778445168,
+          "category": "energy"
+        },
+        {
+          "asset": "META",
+          "volume": 99678.63,
+          "n_fills": 363,
+          "buy_vol": 621.7,
+          "sell_vol": 99056.93,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778310004,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x69906b0ed626ca01a4b7c001e5711e5714ccf207",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2802272.41,
+      "traditional_volume_usd_d180": 2802272.41,
+      "total_volume_d90": 9840823.23,
+      "total_volume_d180": 9840823.23,
+      "traditional_pct_d90": 28.48,
+      "traditional_pct_d180": 28.48,
+      "last_traditional_fill_ts": 1778460751,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "GOOGL",
+          "volume": 1226882.47,
+          "n_fills": 255,
+          "buy_vol": 596911.77,
+          "sell_vol": 629970.7,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778460751,
+          "category": "equity_single"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 938886.75,
+          "n_fills": 124,
+          "buy_vol": 425860.0,
+          "sell_vol": 513026.75,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778280665,
+          "category": "equity_index"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 199146.13,
+          "n_fills": 37,
+          "buy_vol": 135366.4,
+          "sell_vol": 63779.73,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778375778,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 155785.92,
+          "n_fills": 79,
+          "buy_vol": 108858.14,
+          "sell_vol": 46927.78,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778450591,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 113314.65,
+          "n_fills": 10,
+          "buy_vol": 56868.71,
+          "sell_vol": 56445.95,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778165656,
+          "category": "energy"
+        },
+        {
+          "asset": "MU",
+          "volume": 103551.1,
+          "n_fills": 28,
+          "buy_vol": 57321.04,
+          "sell_vol": 46230.06,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778354744,
+          "category": "equity_single"
+        },
+        {
+          "asset": "INTC",
+          "volume": 48997.46,
+          "n_fills": 25,
+          "buy_vol": 23179.68,
+          "sell_vol": 25817.79,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778280424,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SP500",
+          "volume": 14747.6,
+          "n_fills": 3,
+          "buy_vol": 7377.6,
+          "sell_vol": 7370.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778165629,
+          "category": "equity_index"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 499.88,
+          "n_fills": 2,
+          "buy_vol": 0.0,
+          "sell_vol": 499.88,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778284250,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMD",
+          "volume": 460.44,
+          "n_fills": 1,
+          "buy_vol": 460.44,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778280753,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x015354106478dda69c4aae3c0cf801290b738052",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2719193.71,
+      "traditional_volume_usd_d180": 2719193.71,
+      "total_volume_d90": 21589267.85,
+      "total_volume_d180": 25526298.64,
+      "traditional_pct_d90": 12.6,
+      "traditional_pct_d180": 10.65,
+      "last_traditional_fill_ts": 1777656987,
+      "traditional_categories": [
+        "energy"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 2719193.71,
+          "n_fills": 149,
+          "buy_vol": 0.0,
+          "sell_vol": 2719193.71,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777656987,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x04febde8d852931b73fd81c09904bb29d3a0e964",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2455498.02,
+      "traditional_volume_usd_d180": 3324279.9,
+      "total_volume_d90": 4689369.16,
+      "total_volume_d180": 7207408.27,
+      "traditional_pct_d90": 52.36,
+      "traditional_pct_d180": 46.12,
+      "last_traditional_fill_ts": 1777890045,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 630239.21,
+          "n_fills": 71,
+          "buy_vol": 38843.5,
+          "sell_vol": 591395.71,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776103509,
+          "category": "energy"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 545630.98,
+          "n_fills": 84,
+          "buy_vol": 140795.05,
+          "sell_vol": 404835.93,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775238345,
+          "category": "energy"
+        },
+        {
+          "asset": "COPPER",
+          "volume": 388061.59,
+          "n_fills": 67,
+          "buy_vol": 83917.81,
+          "sell_vol": 304143.78,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1769918464,
+          "category": "metals"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 349831.12,
+          "n_fills": 95,
+          "buy_vol": 303092.87,
+          "sell_vol": 46738.25,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776011813,
+          "category": "equity_index"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 251419.78,
+          "n_fills": 50,
+          "buy_vol": 57612.02,
+          "sell_vol": 193807.75,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775810853,
+          "category": "metals"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 217964.75,
+          "n_fills": 17,
+          "buy_vol": 42556.5,
+          "sell_vol": 175408.25,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777890045,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 155368.37,
+          "n_fills": 52,
+          "buy_vol": 0.0,
+          "sell_vol": 155368.37,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777353042,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 154279.68,
+          "n_fills": 20,
+          "buy_vol": 24360.93,
+          "sell_vol": 129918.76,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1774015974,
+          "category": "metals"
+        },
+        {
+          "asset": "PLATINUM",
+          "volume": 102300.71,
+          "n_fills": 18,
+          "buy_vol": 0.0,
+          "sell_vol": 102300.71,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1770912683,
+          "category": "metals"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 78163.63,
+          "n_fills": 56,
+          "buy_vol": 13591.57,
+          "sell_vol": 64572.05,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1771045771,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xedb1f75f08447383ace4593f6d93fab124bd5a28",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2353949.35,
+      "traditional_volume_usd_d180": 2452698.71,
+      "total_volume_d90": 6081263.29,
+      "total_volume_d180": 6885097.71,
+      "traditional_pct_d90": 38.71,
+      "traditional_pct_d180": 35.62,
+      "last_traditional_fill_ts": 1778167070,
+      "traditional_categories": [
+        "energy",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 1072063.42,
+          "n_fills": 143,
+          "buy_vol": 533495.13,
+          "sell_vol": 538568.29,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775977861,
+          "category": "energy"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 703731.88,
+          "n_fills": 118,
+          "buy_vol": 350486.68,
+          "sell_vol": 353245.21,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775976529,
+          "category": "energy"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 157079.91,
+          "n_fills": 87,
+          "buy_vol": 78219.45,
+          "sell_vol": 78860.46,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777488823,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 153002.45,
+          "n_fills": 6,
+          "buy_vol": 153002.45,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777385719,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMD",
+          "volume": 142617.55,
+          "n_fills": 23,
+          "buy_vol": 70342.94,
+          "sell_vol": 72274.61,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777914382,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CRWV",
+          "volume": 113613.59,
+          "n_fills": 7,
+          "buy_vol": 54954.15,
+          "sell_vol": 58659.44,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777488789,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 98749.36,
+          "n_fills": 19,
+          "buy_vol": 49086.01,
+          "sell_vol": 49663.35,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1769998492,
+          "category": "metals"
+        },
+        {
+          "asset": "BABA",
+          "volume": 11840.54,
+          "n_fills": 9,
+          "buy_vol": 11840.54,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778167070,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2262460.97,
+      "traditional_volume_usd_d180": 2262460.97,
+      "total_volume_d90": 11953112.1,
+      "total_volume_d180": 11953112.1,
+      "traditional_pct_d90": 18.93,
+      "traditional_pct_d180": 18.93,
+      "last_traditional_fill_ts": 1778348098,
+      "traditional_categories": [
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "TSLA",
+          "volume": 1067368.45,
+          "n_fills": 504,
+          "buy_vol": 0.0,
+          "sell_vol": 1067368.45,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778348098,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOOGL",
+          "volume": 658073.77,
+          "n_fills": 95,
+          "buy_vol": 158625.35,
+          "sell_vol": 499448.42,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778348044,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 537018.75,
+          "n_fills": 112,
+          "buy_vol": 0.0,
+          "sell_vol": 537018.75,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778348056,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xf961e5e6c5276164adb2865b7e80cf82dc04e920",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2072219.49,
+      "traditional_volume_usd_d180": 2072219.49,
+      "total_volume_d90": 3051906.77,
+      "total_volume_d180": 3051906.77,
+      "traditional_pct_d90": 67.9,
+      "traditional_pct_d180": 67.9,
+      "last_traditional_fill_ts": 1778453691,
+      "traditional_categories": [
+        "energy",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "NATGAS",
+          "volume": 456205.41,
+          "n_fills": 397,
+          "buy_vol": 226041.42,
+          "sell_vol": 230163.99,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776794044,
+          "category": "energy"
+        },
+        {
+          "asset": "PALLADIUM",
+          "volume": 360496.96,
+          "n_fills": 123,
+          "buy_vol": 0.0,
+          "sell_vol": 360496.96,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776795646,
+          "category": "metals"
+        },
+        {
+          "asset": "OIL",
+          "volume": 291470.46,
+          "n_fills": 66,
+          "buy_vol": 143365.5,
+          "sell_vol": 148104.96,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775040881,
+          "category": "energy"
+        },
+        {
+          "asset": "GOOGL",
+          "volume": 220423.79,
+          "n_fills": 285,
+          "buy_vol": 52759.81,
+          "sell_vol": 167663.98,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776442629,
+          "category": "equity_single"
+        },
+        {
+          "asset": "PLTR",
+          "volume": 188506.26,
+          "n_fills": 8,
+          "buy_vol": 256.58,
+          "sell_vol": 188249.68,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777209351,
+          "category": "equity_single"
+        },
+        {
+          "asset": "COPPER",
+          "volume": 122583.23,
+          "n_fills": 38,
+          "buy_vol": 122583.23,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775499126,
+          "category": "metals"
+        },
+        {
+          "asset": "MSTR",
+          "volume": 97221.66,
+          "n_fills": 19,
+          "buy_vol": 97221.66,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776442115,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 88326.41,
+          "n_fills": 68,
+          "buy_vol": 88326.41,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775137291,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 83639.29,
+          "n_fills": 136,
+          "buy_vol": 12769.81,
+          "sell_vol": 70869.49,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775137723,
+          "category": "metals"
+        },
+        {
+          "asset": "MSFT",
+          "volume": 73743.58,
+          "n_fills": 176,
+          "buy_vol": 73743.58,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775137456,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xa2ecada0b45ad16625865843c9fc5e7c985a2e42",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 2002986.46,
+      "traditional_volume_usd_d180": 2002986.46,
+      "total_volume_d90": 10718443.33,
+      "total_volume_d180": 10718443.33,
+      "traditional_pct_d90": 18.69,
+      "traditional_pct_d180": 18.69,
+      "last_traditional_fill_ts": 1778104097,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "fx",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SP500",
+          "volume": 1293691.83,
+          "n_fills": 159,
+          "buy_vol": 646824.61,
+          "sell_vol": 646867.22,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775161761,
+          "category": "equity_index"
+        },
+        {
+          "asset": "CL",
+          "volume": 472409.46,
+          "n_fills": 77,
+          "buy_vol": 235947.03,
+          "sell_vol": 236462.43,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776622363,
+          "category": "energy"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 72282.43,
+          "n_fills": 33,
+          "buy_vol": 36108.64,
+          "sell_vol": 36173.8,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776791889,
+          "category": "energy"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 53188.66,
+          "n_fills": 15,
+          "buy_vol": 26626.95,
+          "sell_vol": 26561.71,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1774250466,
+          "category": "metals"
+        },
+        {
+          "asset": "SPX",
+          "volume": 43393.72,
+          "n_fills": 59,
+          "buy_vol": 21579.58,
+          "sell_vol": 21814.14,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778104097,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 38176.58,
+          "n_fills": 12,
+          "buy_vol": 19090.58,
+          "sell_vol": 19086.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1772406925,
+          "category": "metals"
+        },
+        {
+          "asset": "META",
+          "volume": 13785.54,
+          "n_fills": 10,
+          "buy_vol": 6897.44,
+          "sell_vol": 6888.1,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776455471,
+          "category": "equity_single"
+        },
+        {
+          "asset": "RIVN",
+          "volume": 13549.73,
+          "n_fills": 4,
+          "buy_vol": 6814.34,
+          "sell_vol": 6735.39,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1773929004,
+          "category": "equity_single"
+        },
+        {
+          "asset": "EUR",
+          "volume": 2359.55,
+          "n_fills": 3,
+          "buy_vol": 1181.9,
+          "sell_vol": 1177.65,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1772405451,
+          "category": "fx"
+        },
+        {
+          "asset": "OIL",
+          "volume": 148.97,
+          "n_fills": 2,
+          "buy_vol": 75.68,
+          "sell_vol": 73.28,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1772406275,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x0ce048fe42c170e41740ee392e187f19515f339d",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1945837.59,
+      "traditional_volume_usd_d180": 1945837.59,
+      "total_volume_d90": 5486321.71,
+      "total_volume_d180": 5486321.71,
+      "traditional_pct_d90": 35.47,
+      "traditional_pct_d180": 35.47,
+      "last_traditional_fill_ts": 1778425106,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "fx",
+        "metals",
+        "treasury"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "XYZ100",
+          "volume": 408505.21,
+          "n_fills": 49,
+          "buy_vol": 108936.76,
+          "sell_vol": 299568.44,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777908112,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SP500",
+          "volume": 290566.49,
+          "n_fills": 24,
+          "buy_vol": 145438.49,
+          "sell_vol": 145128.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778012744,
+          "category": "equity_index"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 152566.97,
+          "n_fills": 42,
+          "buy_vol": 96859.81,
+          "sell_vol": 55707.16,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778075343,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 142561.29,
+          "n_fills": 34,
+          "buy_vol": 10872.76,
+          "sell_vol": 131688.53,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778248068,
+          "category": "energy"
+        },
+        {
+          "asset": "INTC",
+          "volume": 126701.75,
+          "n_fills": 54,
+          "buy_vol": 62843.15,
+          "sell_vol": 63858.6,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778262464,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 115292.14,
+          "n_fills": 25,
+          "buy_vol": 115292.14,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778047124,
+          "category": "metals"
+        },
+        {
+          "asset": "JPY",
+          "volume": 99599.48,
+          "n_fills": 25,
+          "buy_vol": 50197.3,
+          "sell_vol": 49402.18,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777544979,
+          "category": "fx"
+        },
+        {
+          "asset": "AAPL",
+          "volume": 80192.91,
+          "n_fills": 27,
+          "buy_vol": 30019.67,
+          "sell_vol": 50173.24,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778003217,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 79851.42,
+          "n_fills": 35,
+          "buy_vol": 40012.48,
+          "sell_vol": 39838.95,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778172958,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOOGL",
+          "volume": 70029.2,
+          "n_fills": 29,
+          "buy_vol": 30027.4,
+          "sell_vol": 40001.8,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778172961,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x047f3853f3d89e5a61344749519de7a66fd4f9c4",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1873402.87,
+      "traditional_volume_usd_d180": 1873402.87,
+      "total_volume_d90": 5693063.33,
+      "total_volume_d180": 5693063.33,
+      "traditional_pct_d90": 32.91,
+      "traditional_pct_d180": 32.91,
+      "last_traditional_fill_ts": 1778435627,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 609117.51,
+          "n_fills": 59,
+          "buy_vol": 346840.37,
+          "sell_vol": 262277.14,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775684805,
+          "category": "energy"
+        },
+        {
+          "asset": "SP500",
+          "volume": 449994.13,
+          "n_fills": 156,
+          "buy_vol": 142418.7,
+          "sell_vol": 307575.44,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778435627,
+          "category": "equity_index"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 375228.34,
+          "n_fills": 77,
+          "buy_vol": 190019.22,
+          "sell_vol": 185209.13,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777493716,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MU",
+          "volume": 315340.63,
+          "n_fills": 101,
+          "buy_vol": 150065.86,
+          "sell_vol": 165274.77,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777903287,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SPX",
+          "volume": 123722.25,
+          "n_fills": 142,
+          "buy_vol": 61047.51,
+          "sell_vol": 62674.75,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776206089,
+          "category": "equity_index"
+        }
+      ]
+    },
+    {
+      "address": "0xf92c1f0e96a2c1096796c1289bca150ad9f35f37",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1866701.12,
+      "traditional_volume_usd_d180": 1866701.12,
+      "total_volume_d90": 4129137.41,
+      "total_volume_d180": 4129137.41,
+      "traditional_pct_d90": 45.21,
+      "traditional_pct_d180": 45.21,
+      "last_traditional_fill_ts": 1778465020,
+      "traditional_categories": [
+        "agri",
+        "energy",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "BRENTOIL",
+          "volume": 592489.5,
+          "n_fills": 118,
+          "buy_vol": 345037.24,
+          "sell_vol": 247452.26,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778465020,
+          "category": "energy"
+        },
+        {
+          "asset": "CL",
+          "volume": 312288.79,
+          "n_fills": 60,
+          "buy_vol": 205001.43,
+          "sell_vol": 107287.36,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778464063,
+          "category": "energy"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 290993.68,
+          "n_fills": 55,
+          "buy_vol": 145020.39,
+          "sell_vol": 145973.29,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778136685,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 217230.34,
+          "n_fills": 68,
+          "buy_vol": 110101.39,
+          "sell_vol": 107128.96,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778464018,
+          "category": "equity_single"
+        },
+        {
+          "asset": "INTC",
+          "volume": 101647.81,
+          "n_fills": 37,
+          "buy_vol": 50045.14,
+          "sell_vol": 51602.67,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778164398,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 79899.64,
+          "n_fills": 20,
+          "buy_vol": 40016.39,
+          "sell_vol": 39883.25,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778075790,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MU",
+          "volume": 62070.32,
+          "n_fills": 21,
+          "buy_vol": 30029.88,
+          "sell_vol": 32040.44,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778310775,
+          "category": "equity_single"
+        },
+        {
+          "asset": "COPPER",
+          "volume": 60252.79,
+          "n_fills": 20,
+          "buy_vol": 30010.58,
+          "sell_vol": 30242.21,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777985017,
+          "category": "metals"
+        },
+        {
+          "asset": "WHEAT",
+          "volume": 48332.49,
+          "n_fills": 19,
+          "buy_vol": 24503.19,
+          "sell_vol": 23829.3,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778257452,
+          "category": "agri"
+        },
+        {
+          "asset": "ANTHROPIC",
+          "volume": 41288.87,
+          "n_fills": 22,
+          "buy_vol": 20664.54,
+          "sell_vol": 20624.34,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778145600,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x0facac3bd128fe6d799898a059d3634b877c7a0a",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1811859.69,
+      "traditional_volume_usd_d180": 1811859.69,
+      "total_volume_d90": 6794287.11,
+      "total_volume_d180": 6794287.11,
+      "traditional_pct_d90": 26.67,
+      "traditional_pct_d180": 26.67,
+      "last_traditional_fill_ts": 1778465972,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "fx"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 1363028.42,
+          "n_fills": 362,
+          "buy_vol": 305760.14,
+          "sell_vol": 1057268.28,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778447199,
+          "category": "energy"
+        },
+        {
+          "asset": "META",
+          "volume": 174431.97,
+          "n_fills": 31,
+          "buy_vol": 39999.53,
+          "sell_vol": 134432.44,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778170504,
+          "category": "equity_single"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 68034.31,
+          "n_fills": 22,
+          "buy_vol": 33858.75,
+          "sell_vol": 34175.56,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778460807,
+          "category": "equity_index"
+        },
+        {
+          "asset": "MU",
+          "volume": 57744.21,
+          "n_fills": 36,
+          "buy_vol": 57744.21,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778458832,
+          "category": "equity_single"
+        },
+        {
+          "asset": "JPY",
+          "volume": 47998.44,
+          "n_fills": 102,
+          "buy_vol": 0.0,
+          "sell_vol": 47998.44,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778187662,
+          "category": "fx"
+        },
+        {
+          "asset": "SP500",
+          "volume": 40866.94,
+          "n_fills": 4,
+          "buy_vol": 20357.41,
+          "sell_vol": 20509.54,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778453130,
+          "category": "equity_index"
+        },
+        {
+          "asset": "BABA",
+          "volume": 39999.82,
+          "n_fills": 71,
+          "buy_vol": 39999.82,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778251466,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CRCL",
+          "volume": 16786.87,
+          "n_fills": 10,
+          "buy_vol": 7999.99,
+          "sell_vol": 8786.88,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778465972,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SPACEX",
+          "volume": 2968.7,
+          "n_fills": 5,
+          "buy_vol": 1470.0,
+          "sell_vol": 1498.7,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778178151,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x0954c1dd1d3d19ea69e53163e95749dd350cf532",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1768678.57,
+      "traditional_volume_usd_d180": 1768678.57,
+      "total_volume_d90": 5071686.87,
+      "total_volume_d180": 5071686.87,
+      "traditional_pct_d90": 34.87,
+      "traditional_pct_d180": 34.87,
+      "last_traditional_fill_ts": 1778179099,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SP500",
+          "volume": 703414.0,
+          "n_fills": 43,
+          "buy_vol": 352650.0,
+          "sell_vol": 350764.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776421108,
+          "category": "equity_index"
+        },
+        {
+          "asset": "VVV",
+          "volume": 516891.23,
+          "n_fills": 759,
+          "buy_vol": 268413.67,
+          "sell_vol": 248477.56,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777998193,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOOGL",
+          "volume": 364868.39,
+          "n_fills": 50,
+          "buy_vol": 181590.01,
+          "sell_vol": 183278.38,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778179099,
+          "category": "equity_single"
+        },
+        {
+          "asset": "INTC",
+          "volume": 181486.14,
+          "n_fills": 43,
+          "buy_vol": 90062.64,
+          "sell_vol": 91423.5,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777369675,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 1250.71,
+          "n_fills": 9,
+          "buy_vol": 625.32,
+          "sell_vol": 625.39,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777668430,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AAPL",
+          "volume": 559.51,
+          "n_fills": 3,
+          "buy_vol": 280.0,
+          "sell_vol": 279.51,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777668424,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 208.59,
+          "n_fills": 2,
+          "buy_vol": 104.07,
+          "sell_vol": 104.52,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777381502,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1484352.42,
+      "traditional_volume_usd_d180": 1484352.42,
+      "total_volume_d90": 6533654.81,
+      "total_volume_d180": 6533654.81,
+      "traditional_pct_d90": 22.72,
+      "traditional_pct_d180": 22.72,
+      "last_traditional_fill_ts": 1777469431,
+      "traditional_categories": [
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "HOOD",
+          "volume": 1000808.41,
+          "n_fills": 205,
+          "buy_vol": 1000808.41,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777469431,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CRCL",
+          "volume": 483544.01,
+          "n_fills": 219,
+          "buy_vol": 483544.01,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775688369,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xad59ed47c226987cf458a63428ca10887773ba81",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1438426.02,
+      "traditional_volume_usd_d180": 1438426.02,
+      "total_volume_d90": 5657965.06,
+      "total_volume_d180": 5657965.06,
+      "traditional_pct_d90": 25.42,
+      "traditional_pct_d180": 25.42,
+      "last_traditional_fill_ts": 1778153160,
+      "traditional_categories": [
+        "energy",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SILVER",
+          "volume": 567038.55,
+          "n_fills": 92,
+          "buy_vol": 271906.25,
+          "sell_vol": 295132.3,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778153160,
+          "category": "metals"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 532920.28,
+          "n_fills": 73,
+          "buy_vol": 231741.13,
+          "sell_vol": 301179.15,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777491189,
+          "category": "energy"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 338467.18,
+          "n_fills": 52,
+          "buy_vol": 133692.95,
+          "sell_vol": 204774.23,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777469454,
+          "category": "metals"
+        }
+      ]
+    },
+    {
+      "address": "0xac7708a5c455f2304200e80ddaa95999ae4e1626",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1373635.03,
+      "traditional_volume_usd_d180": 1373635.03,
+      "total_volume_d90": 4036812.26,
+      "total_volume_d180": 4036812.26,
+      "traditional_pct_d90": 34.03,
+      "traditional_pct_d180": 34.03,
+      "last_traditional_fill_ts": 1778452432,
+      "traditional_categories": [
+        "energy",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SNDK",
+          "volume": 390907.93,
+          "n_fills": 381,
+          "buy_vol": 198833.03,
+          "sell_vol": 192074.9,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778329261,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MU",
+          "volume": 310138.64,
+          "n_fills": 89,
+          "buy_vol": 100024.83,
+          "sell_vol": 210113.81,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778390396,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 202242.25,
+          "n_fills": 44,
+          "buy_vol": 102141.37,
+          "sell_vol": 100100.88,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778452432,
+          "category": "energy"
+        },
+        {
+          "asset": "COIN",
+          "volume": 144387.43,
+          "n_fills": 25,
+          "buy_vol": 49999.81,
+          "sell_vol": 94387.62,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778184998,
+          "category": "equity_single"
+        },
+        {
+          "asset": "ANTHROPIC",
+          "volume": 95026.66,
+          "n_fills": 15,
+          "buy_vol": 50487.78,
+          "sell_vol": 44538.88,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778371500,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 76767.28,
+          "n_fills": 9,
+          "buy_vol": 50000.0,
+          "sell_vol": 26767.28,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778141180,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 76256.28,
+          "n_fills": 10,
+          "buy_vol": 50001.59,
+          "sell_vol": 26254.69,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778160788,
+          "category": "metals"
+        },
+        {
+          "asset": "MSTR",
+          "volume": 50007.57,
+          "n_fills": 6,
+          "buy_vol": 0.0,
+          "sell_vol": 50007.57,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778164679,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMD",
+          "volume": 27901.0,
+          "n_fills": 2,
+          "buy_vol": 0.0,
+          "sell_vol": 27901.0,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778278705,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xe7b34f28c54f85533896f8827edc92edac28b17f",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1174771.57,
+      "traditional_volume_usd_d180": 1174771.57,
+      "total_volume_d90": 4100259.32,
+      "total_volume_d180": 4100259.32,
+      "traditional_pct_d90": 28.65,
+      "traditional_pct_d180": 28.65,
+      "last_traditional_fill_ts": 1778345309,
+      "traditional_categories": [
+        "energy",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "ANTHROPIC",
+          "volume": 883030.78,
+          "n_fills": 1003,
+          "buy_vol": 464202.4,
+          "sell_vol": 418828.38,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778345309,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NATGAS",
+          "volume": 106718.65,
+          "n_fills": 47,
+          "buy_vol": 66496.92,
+          "sell_vol": 40221.73,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777450842,
+          "category": "energy"
+        },
+        {
+          "asset": "OPENAI",
+          "volume": 90957.56,
+          "n_fills": 211,
+          "buy_vol": 31407.27,
+          "sell_vol": 59550.29,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778164568,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 82414.43,
+          "n_fills": 26,
+          "buy_vol": 0.0,
+          "sell_vol": 82414.43,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777506992,
+          "category": "energy"
+        },
+        {
+          "asset": "WTI",
+          "volume": 11650.15,
+          "n_fills": 19,
+          "buy_vol": 0.0,
+          "sell_vol": 11650.15,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777507007,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x64bddab5f13a99576fca6747f0aa205422c5f708",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1124413.64,
+      "traditional_volume_usd_d180": 1124413.64,
+      "total_volume_d90": 10106211.71,
+      "total_volume_d180": 10106211.71,
+      "traditional_pct_d90": 11.13,
+      "traditional_pct_d180": 11.13,
+      "last_traditional_fill_ts": 1778452346,
+      "traditional_categories": [
+        "energy",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 497334.09,
+          "n_fills": 36,
+          "buy_vol": 251701.81,
+          "sell_vol": 245632.28,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777449981,
+          "category": "energy"
+        },
+        {
+          "asset": "PLTR",
+          "volume": 286536.25,
+          "n_fills": 70,
+          "buy_vol": 0.0,
+          "sell_vol": 286536.25,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777469553,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 221872.45,
+          "n_fills": 28,
+          "buy_vol": 111231.33,
+          "sell_vol": 110641.11,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777495505,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MSTR",
+          "volume": 118670.86,
+          "n_fills": 28,
+          "buy_vol": 60889.22,
+          "sell_vol": 57781.64,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778452346,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 1002758.87,
+      "traditional_volume_usd_d180": 1002758.87,
+      "total_volume_d90": 13483351.25,
+      "total_volume_d180": 13483351.25,
+      "traditional_pct_d90": 7.44,
+      "traditional_pct_d180": 7.44,
+      "last_traditional_fill_ts": 1778137963,
+      "traditional_categories": [
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "XYZ100",
+          "volume": 850641.39,
+          "n_fills": 88,
+          "buy_vol": 0.0,
+          "sell_vol": 850641.39,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778057743,
+          "category": "equity_index"
+        },
+        {
+          "asset": "CRCL",
+          "volume": 152117.49,
+          "n_fills": 113,
+          "buy_vol": 0.0,
+          "sell_vol": 152117.49,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778137963,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xe9b0f5794b008b927beb62e3ce1679f81aa80477",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 974814.16,
+      "traditional_volume_usd_d180": 974814.16,
+      "total_volume_d90": 4536836.97,
+      "total_volume_d180": 4536836.97,
+      "traditional_pct_d90": 21.49,
+      "traditional_pct_d180": 21.49,
+      "last_traditional_fill_ts": 1778453294,
+      "traditional_categories": [
+        "energy",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 340596.34,
+          "n_fills": 105,
+          "buy_vol": 164075.76,
+          "sell_vol": 176520.58,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778447703,
+          "category": "energy"
+        },
+        {
+          "asset": "ORCL",
+          "volume": 338010.83,
+          "n_fills": 74,
+          "buy_vol": 123755.43,
+          "sell_vol": 214255.4,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778447040,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 195898.21,
+          "n_fills": 7,
+          "buy_vol": 97537.0,
+          "sell_vol": 98361.21,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778453294,
+          "category": "equity_single"
+        },
+        {
+          "asset": "COPPER",
+          "volume": 100308.76,
+          "n_fills": 106,
+          "buy_vol": 50142.18,
+          "sell_vol": 50166.58,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778441908,
+          "category": "metals"
+        }
+      ]
+    },
+    {
+      "address": "0x06cecfbac34101ae41c88ebc2450f8602b3d164b",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 949744.39,
+      "traditional_volume_usd_d180": 1667155.11,
+      "total_volume_d90": 12016327.75,
+      "total_volume_d180": 12970953.88,
+      "traditional_pct_d90": 7.9,
+      "traditional_pct_d180": 12.85,
+      "last_traditional_fill_ts": 1772814989,
+      "traditional_categories": [
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "NVDA",
+          "volume": 949744.39,
+          "n_fills": 239,
+          "buy_vol": 0.0,
+          "sell_vol": 949744.39,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1772814989,
+          "category": "equity_single"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 717410.72,
+          "n_fills": 124,
+          "buy_vol": 109574.19,
+          "sell_vol": 607836.53,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1770658252,
+          "category": "metals"
+        }
+      ]
+    },
+    {
+      "address": "0xadbce2b5552c7da805af6381908cb86dc4cb1c62",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 938304.39,
+      "traditional_volume_usd_d180": 938304.39,
+      "total_volume_d90": 4196644.98,
+      "total_volume_d180": 4196644.98,
+      "traditional_pct_d90": 22.36,
+      "traditional_pct_d180": 22.36,
+      "last_traditional_fill_ts": 1778211019,
+      "traditional_categories": [
+        "energy",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "VVV",
+          "volume": 571044.57,
+          "n_fills": 1003,
+          "buy_vol": 234428.56,
+          "sell_vol": 336616.01,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778211019,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 367259.83,
+          "n_fills": 121,
+          "buy_vol": 103298.45,
+          "sell_vol": 263961.37,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775968631,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0xeafeb427766b867ce019333936285a5a9febd739",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 904219.12,
+      "traditional_volume_usd_d180": 904219.12,
+      "total_volume_d90": 6055596.98,
+      "total_volume_d180": 6055596.98,
+      "traditional_pct_d90": 14.93,
+      "traditional_pct_d180": 14.93,
+      "last_traditional_fill_ts": 1777132382,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SP500",
+          "volume": 343036.21,
+          "n_fills": 84,
+          "buy_vol": 0.0,
+          "sell_vol": 343036.21,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777132382,
+          "category": "equity_index"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 292126.43,
+          "n_fills": 168,
+          "buy_vol": 2.28,
+          "sell_vol": 292124.15,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1774932469,
+          "category": "metals"
+        },
+        {
+          "asset": "CL",
+          "volume": 269056.47,
+          "n_fills": 101,
+          "buy_vol": 198043.15,
+          "sell_vol": 71013.32,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775669462,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x0dc4b9ad4cd8a06878163427c71f027bb8acb09a",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 886090.05,
+      "traditional_volume_usd_d180": 886090.05,
+      "total_volume_d90": 5977020.36,
+      "total_volume_d180": 5977020.36,
+      "traditional_pct_d90": 14.82,
+      "traditional_pct_d180": 14.82,
+      "last_traditional_fill_ts": 1778454746,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 414525.17,
+          "n_fills": 101,
+          "buy_vol": 206752.34,
+          "sell_vol": 207772.83,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778167733,
+          "category": "energy"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 86929.58,
+          "n_fills": 11,
+          "buy_vol": 43571.89,
+          "sell_vol": 43357.69,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776691862,
+          "category": "equity_index"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 77767.26,
+          "n_fills": 26,
+          "buy_vol": 38967.16,
+          "sell_vol": 38800.1,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775145248,
+          "category": "energy"
+        },
+        {
+          "asset": "VVV",
+          "volume": 56939.8,
+          "n_fills": 134,
+          "buy_vol": 28784.84,
+          "sell_vol": 28154.96,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1774975383,
+          "category": "equity_single"
+        },
+        {
+          "asset": "PAXG",
+          "volume": 54773.98,
+          "n_fills": 58,
+          "buy_vol": 27372.2,
+          "sell_vol": 27401.78,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1774619169,
+          "category": "metals"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 51783.51,
+          "n_fills": 40,
+          "buy_vol": 25862.64,
+          "sell_vol": 25920.87,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776512646,
+          "category": "metals"
+        },
+        {
+          "asset": "USA500",
+          "volume": 43569.74,
+          "n_fills": 62,
+          "buy_vol": 19674.73,
+          "sell_vol": 23895.01,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1774171505,
+          "category": "equity_index"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 34189.64,
+          "n_fills": 8,
+          "buy_vol": 16830.29,
+          "sell_vol": 17359.34,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1774420956,
+          "category": "metals"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 20426.22,
+          "n_fills": 38,
+          "buy_vol": 20426.22,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778233704,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 16700.46,
+          "n_fills": 10,
+          "buy_vol": 16700.46,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778435680,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x02650c0e46733dc67b052deae215ef3a1aae6532",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 777453.47,
+      "traditional_volume_usd_d180": 777453.47,
+      "total_volume_d90": 4151516.43,
+      "total_volume_d180": 4151516.43,
+      "traditional_pct_d90": 18.73,
+      "traditional_pct_d180": 18.73,
+      "last_traditional_fill_ts": 1778149844,
+      "traditional_categories": [
+        "equity_index",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "META",
+          "volume": 484062.55,
+          "n_fills": 156,
+          "buy_vol": 484062.55,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778149844,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CRCL",
+          "volume": 263232.07,
+          "n_fills": 174,
+          "buy_vol": 123845.12,
+          "sell_vol": 139386.95,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777908131,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SPX",
+          "volume": 30158.86,
+          "n_fills": 36,
+          "buy_vol": 30158.86,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777005355,
+          "category": "equity_index"
+        }
+      ]
+    },
+    {
+      "address": "0x64702807a1f0f9888ea22b858099d7f481227b55",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 724640.42,
+      "traditional_volume_usd_d180": 724640.42,
+      "total_volume_d90": 7529332.47,
+      "total_volume_d180": 7529332.47,
+      "traditional_pct_d90": 9.62,
+      "traditional_pct_d180": 9.62,
+      "last_traditional_fill_ts": 1778457609,
+      "traditional_categories": [
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CRCL",
+          "volume": 548364.26,
+          "n_fills": 242,
+          "buy_vol": 268310.96,
+          "sell_vol": 280053.3,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778457609,
+          "category": "equity_single"
+        },
+        {
+          "asset": "CRWV",
+          "volume": 176276.17,
+          "n_fills": 55,
+          "buy_vol": 110615.48,
+          "sell_vol": 65660.69,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778247497,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x0560d81e0d3ad01c640684306bed3e46717aa24d",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 703689.91,
+      "traditional_volume_usd_d180": 703689.91,
+      "total_volume_d90": 9559441.49,
+      "total_volume_d180": 9559441.49,
+      "traditional_pct_d90": 7.36,
+      "traditional_pct_d180": 7.36,
+      "last_traditional_fill_ts": 1778386018,
+      "traditional_categories": [
+        "energy"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 703689.91,
+          "n_fills": 104,
+          "buy_vol": 366446.24,
+          "sell_vol": 337243.66,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778386018,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x09b57c3f9db5e61ced66dca927ec2e2b34f1b6fb",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 692364.6,
+      "traditional_volume_usd_d180": 692364.6,
+      "total_volume_d90": 3964170.5,
+      "total_volume_d180": 5787103.43,
+      "traditional_pct_d90": 17.47,
+      "traditional_pct_d180": 11.96,
+      "last_traditional_fill_ts": 1778158309,
+      "traditional_categories": [
+        "energy",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 397927.36,
+          "n_fills": 87,
+          "buy_vol": 198650.23,
+          "sell_vol": 199277.13,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776181731,
+          "category": "energy"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 222877.74,
+          "n_fills": 43,
+          "buy_vol": 108472.45,
+          "sell_vol": 114405.29,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778158146,
+          "category": "equity_single"
+        },
+        {
+          "asset": "BRENTOIL",
+          "volume": 71559.51,
+          "n_fills": 25,
+          "buy_vol": 33873.73,
+          "sell_vol": 37685.78,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778158309,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0xac8b2ad6b74ad49638fc46c5a0f4941620e9e19b",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 636013.02,
+      "traditional_volume_usd_d180": 1486370.94,
+      "total_volume_d90": 6224592.03,
+      "total_volume_d180": 8487980.63,
+      "traditional_pct_d90": 10.22,
+      "traditional_pct_d180": 17.51,
+      "last_traditional_fill_ts": 1778126856,
+      "traditional_categories": [
+        "energy",
+        "equity_index",
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 461693.44,
+          "n_fills": 100,
+          "buy_vol": 230317.5,
+          "sell_vol": 231375.94,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778126856,
+          "category": "energy"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 330685.54,
+          "n_fills": 281,
+          "buy_vol": 238519.35,
+          "sell_vol": 92166.19,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777139042,
+          "category": "metals"
+        },
+        {
+          "asset": "XYZ100",
+          "volume": 291954.46,
+          "n_fills": 103,
+          "buy_vol": 216853.25,
+          "sell_vol": 75101.21,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1775638985,
+          "category": "equity_index"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 195782.08,
+          "n_fills": 61,
+          "buy_vol": 98475.33,
+          "sell_vol": 97306.74,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1770300667,
+          "category": "metals"
+        },
+        {
+          "asset": "COPPER",
+          "volume": 174780.25,
+          "n_fills": 185,
+          "buy_vol": 88024.75,
+          "sell_vol": 86755.5,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1770349845,
+          "category": "metals"
+        },
+        {
+          "asset": "MSTR",
+          "volume": 30597.86,
+          "n_fills": 22,
+          "buy_vol": 14999.85,
+          "sell_vol": 15598.0,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1773338843,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 877.32,
+          "n_fills": 4,
+          "buy_vol": 877.32,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1770351795,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x65c6b7f0e9a6f72b351ca133e510a2329d047dbe",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 612585.78,
+      "traditional_volume_usd_d180": 612585.78,
+      "total_volume_d90": 4694075.91,
+      "total_volume_d180": 4694075.91,
+      "traditional_pct_d90": 13.05,
+      "traditional_pct_d180": 13.05,
+      "last_traditional_fill_ts": 1778214644,
+      "traditional_categories": [
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "VVV",
+          "volume": 612585.78,
+          "n_fills": 464,
+          "buy_vol": 245193.06,
+          "sell_vol": 367392.72,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778214644,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xf191539a2c4ba0af951438bb6abfa0625c7df2ef",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 583404.05,
+      "traditional_volume_usd_d180": 594655.75,
+      "total_volume_d90": 3508123.68,
+      "total_volume_d180": 5004177.1,
+      "traditional_pct_d90": 16.63,
+      "traditional_pct_d180": 11.88,
+      "last_traditional_fill_ts": 1777750923,
+      "traditional_categories": [
+        "energy",
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "CL",
+          "volume": 309603.03,
+          "n_fills": 114,
+          "buy_vol": 157420.41,
+          "sell_vol": 152182.63,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1776436756,
+          "category": "energy"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 273801.02,
+          "n_fills": 112,
+          "buy_vol": 131868.07,
+          "sell_vol": 141932.95,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777750923,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 4097.56,
+          "n_fills": 5,
+          "buy_vol": 1967.46,
+          "sell_vol": 2130.1,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1764605807,
+          "category": "equity_single"
+        },
+        {
+          "asset": "META",
+          "volume": 3672.55,
+          "n_fills": 5,
+          "buy_vol": 1752.27,
+          "sell_vol": 1920.28,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1764605809,
+          "category": "equity_single"
+        },
+        {
+          "asset": "NVDA",
+          "volume": 3481.6,
+          "n_fills": 2,
+          "buy_vol": 1786.9,
+          "sell_vol": 1694.7,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1764083111,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xf1397a46311f66c13b4f96fd49d57b385bd4a79d",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 525046.19,
+      "traditional_volume_usd_d180": 525046.19,
+      "total_volume_d90": 8803318.76,
+      "total_volume_d180": 9565341.88,
+      "traditional_pct_d90": 5.96,
+      "traditional_pct_d180": 5.49,
+      "last_traditional_fill_ts": 1778073036,
+      "traditional_categories": [
+        "energy"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "BRENTOIL",
+          "volume": 525046.19,
+          "n_fills": 112,
+          "buy_vol": 245272.44,
+          "sell_vol": 279773.75,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778073036,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 415311.0,
+      "traditional_volume_usd_d180": 415311.0,
+      "total_volume_d90": 4985251.57,
+      "total_volume_d180": 4985251.57,
+      "traditional_pct_d90": 8.33,
+      "traditional_pct_d180": 8.33,
+      "last_traditional_fill_ts": 1777849847,
+      "traditional_categories": [
+        "energy",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SILVER",
+          "volume": 299891.14,
+          "n_fills": 496,
+          "buy_vol": 2.28,
+          "sell_vol": 299888.86,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777032575,
+          "category": "metals"
+        },
+        {
+          "asset": "GOLD",
+          "volume": 74998.77,
+          "n_fills": 93,
+          "buy_vol": 0.0,
+          "sell_vol": 74998.77,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777129148,
+          "category": "metals"
+        },
+        {
+          "asset": "CL",
+          "volume": 40421.09,
+          "n_fills": 6,
+          "buy_vol": 20205.09,
+          "sell_vol": 20216.0,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1777849847,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x13e84e8897caf814dc32e147aa0f6dd46fa28cdf",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 363573.87,
+      "traditional_volume_usd_d180": 363573.87,
+      "total_volume_d90": 2325457.01,
+      "total_volume_d180": 3194347.65,
+      "traditional_pct_d90": 15.63,
+      "traditional_pct_d180": 11.38,
+      "last_traditional_fill_ts": 1778252215,
+      "traditional_categories": [
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "VVV",
+          "volume": 97753.91,
+          "n_fills": 109,
+          "buy_vol": 47120.98,
+          "sell_vol": 50632.94,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776956100,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMD",
+          "volume": 87768.66,
+          "n_fills": 30,
+          "buy_vol": 70210.72,
+          "sell_vol": 17557.93,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778252138,
+          "category": "equity_single"
+        },
+        {
+          "asset": "AMZN",
+          "volume": 52305.23,
+          "n_fills": 22,
+          "buy_vol": 52305.23,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778252215,
+          "category": "equity_single"
+        },
+        {
+          "asset": "MU",
+          "volume": 52241.17,
+          "n_fills": 12,
+          "buy_vol": 52241.17,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778252169,
+          "category": "equity_single"
+        },
+        {
+          "asset": "INTC",
+          "volume": 36950.78,
+          "n_fills": 9,
+          "buy_vol": 17001.64,
+          "sell_vol": 19949.14,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778184148,
+          "category": "equity_single"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 36554.11,
+          "n_fills": 6,
+          "buy_vol": 15992.23,
+          "sell_vol": 20561.88,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778005148,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0x07295d129f841f2854f9f298f137c2ffc5ccff34",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 320831.97,
+      "traditional_volume_usd_d180": 2953226.72,
+      "total_volume_d90": 6368536.79,
+      "total_volume_d180": 9559401.95,
+      "traditional_pct_d90": 5.04,
+      "traditional_pct_d180": 30.89,
+      "last_traditional_fill_ts": 1777139968,
+      "traditional_categories": [
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "SILVER",
+          "volume": 2692423.71,
+          "n_fills": 487,
+          "buy_vol": 1383337.37,
+          "sell_vol": 1309086.34,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1770919427,
+          "category": "metals"
+        },
+        {
+          "asset": "HIMS",
+          "volume": 114454.84,
+          "n_fills": 13,
+          "buy_vol": 2099.79,
+          "sell_vol": 112355.05,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776347647,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 102267.4,
+          "n_fills": 78,
+          "buy_vol": 51499.41,
+          "sell_vol": 50767.99,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1770847634,
+          "category": "equity_single"
+        },
+        {
+          "asset": "HYUNDAI",
+          "volume": 44075.97,
+          "n_fills": 32,
+          "buy_vol": 22291.54,
+          "sell_vol": 21784.44,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1777139968,
+          "category": "equity_single"
+        },
+        {
+          "asset": "PAXG",
+          "volume": 4.8,
+          "n_fills": 1,
+          "buy_vol": 0.0,
+          "sell_vol": 4.8,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1770037684,
+          "category": "metals"
+        }
+      ]
+    },
+    {
+      "address": "0xa183a9fdae89949393995f6d773311054a9cb684",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 207074.0,
+      "traditional_volume_usd_d180": 207074.0,
+      "total_volume_d90": 1236361.77,
+      "total_volume_d180": 1236361.77,
+      "traditional_pct_d90": 16.75,
+      "traditional_pct_d180": 16.75,
+      "last_traditional_fill_ts": 1778410622,
+      "traditional_categories": [
+        "equity_single"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "VVV",
+          "volume": 202968.35,
+          "n_fills": 401,
+          "buy_vol": 73153.36,
+          "sell_vol": 129814.99,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778410622,
+          "category": "equity_single"
+        },
+        {
+          "asset": "TSLA",
+          "volume": 4105.65,
+          "n_fills": 2,
+          "buy_vol": 4105.65,
+          "sell_vol": 0.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778265532,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xa30ecf14316316f355b33eb6f5fb4f6e8ed8be51",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 202434.39,
+      "traditional_volume_usd_d180": 202434.39,
+      "total_volume_d90": 1297585.91,
+      "total_volume_d180": 10887282.68,
+      "traditional_pct_d90": 15.6,
+      "traditional_pct_d180": 1.86,
+      "last_traditional_fill_ts": 1776079291,
+      "traditional_categories": [
+        "energy"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "BRENTOIL",
+          "volume": 202434.39,
+          "n_fills": 27,
+          "buy_vol": 100046.71,
+          "sell_vol": 102387.68,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1776079291,
+          "category": "energy"
+        }
+      ]
+    },
+    {
+      "address": "0x61b6cfd715d70df1b1822763639e75a575a23c12",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 198076.5,
+      "traditional_volume_usd_d180": 198076.5,
+      "total_volume_d90": 3641712.66,
+      "total_volume_d180": 3641712.66,
+      "traditional_pct_d90": 5.44,
+      "traditional_pct_d180": 5.44,
+      "last_traditional_fill_ts": 1778457731,
+      "traditional_categories": [
+        "equity_single",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "PAXG",
+          "volume": 187141.21,
+          "n_fills": 167,
+          "buy_vol": 106355.21,
+          "sell_vol": 80786.0,
+          "dominant_side": "LONG",
+          "last_fill_ts": 1778450056,
+          "category": "metals"
+        },
+        {
+          "asset": "SNDK",
+          "volume": 10935.29,
+          "n_fills": 22,
+          "buy_vol": 1971.23,
+          "sell_vol": 8964.06,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1778457731,
+          "category": "equity_single"
+        }
+      ]
+    },
+    {
+      "address": "0xf5e7ffe523d0491709958490b4877e1d9de6c6f7",
+      "k_score": 100,
+      "source": "526_rescan",
+      "traditional_volume_usd_d90": 132532.87,
+      "traditional_volume_usd_d180": 227955.84,
+      "total_volume_d90": 2049561.04,
+      "total_volume_d180": 7419287.17,
+      "traditional_pct_d90": 6.47,
+      "traditional_pct_d180": 3.07,
+      "last_traditional_fill_ts": 1775992895,
+      "traditional_categories": [
+        "energy",
+        "fx",
+        "metals"
+      ],
+      "top_traditional_assets": [
+        {
+          "asset": "EUR",
+          "volume": 188334.91,
+          "n_fills": 36,
+          "buy_vol": 93719.6,
+          "sell_vol": 94615.3,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775642222,
+          "category": "fx"
+        },
+        {
+          "asset": "CL",
+          "volume": 39467.55,
+          "n_fills": 17,
+          "buy_vol": 0.0,
+          "sell_vol": 39467.55,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1775992895,
+          "category": "energy"
+        },
+        {
+          "asset": "SILVER",
+          "volume": 153.39,
+          "n_fills": 2,
+          "buy_vol": 76.69,
+          "sell_vol": 76.7,
+          "dominant_side": "SHORT",
+          "last_fill_ts": 1766972384,
+          "category": "metals"
+        }
+      ]
+    }
+  ]
+}
