@@ -1,18 +1,8 @@
 {
-  "exported_at": 1778489269,
-  "exported_iso": "2026-05-11 08:47:49 UTC",
-  "count": 15,
+  "exported_at": 1778500304,
+  "exported_iso": "2026-05-11 11:51:44 UTC",
+  "count": 14,
   "anchors": [
-    {
-      "id": "mag7_nvda_20260508",
-      "name": "NVDA Q1 法說 [Mag 7]",
-      "event_group": "earnings",
-      "event_time": 1778169600,
-      "status": "active",
-      "source_url": "",
-      "importance": "HIGH",
-      "category": "earnings"
-    },
     {
       "id": "earnings_csco_20260513",
       "name": "CSCO 法說會 — Cisco Systems, Inc.",
